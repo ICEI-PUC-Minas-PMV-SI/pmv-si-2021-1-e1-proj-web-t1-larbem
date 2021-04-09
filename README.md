@@ -7,7 +7,7 @@
 
 `1° semestre de 2021`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+Criação de um site para o LARBEM que é uma instituição de acolhimento, localizada em Recife-Pe, que atende meninas (crianças e adolescentes) que tenham sofrido algum tipo de violação de direitos.
 
 ## Integrantes
 
