@@ -11,12 +11,17 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 
 ## Integrantes
 
-- Obi-Wan Kenobi 
-- Anakin Skywalker
+- Arthur Vinícius Reis Rodrigues 
+- Bogos Bedik Chaves Sismanoglu
+- Marcelo Moreira Nunes
+- Matheus Rodrigues Andrade
+- Neymmar Padilha Palma
+- Rafaela Bezerra dos Santos
+- Vinícius César Lisboa Soares
 
 ## Professor
 
-- Mestre Yoda
+- Hugo de Paula
 
 # Documentação
 
