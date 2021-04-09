@@ -1,9 +1,9 @@
 # Criação de site para o Lar Batista Elizabeth Mein (LARBEM)
 
 
-`CURSO`
+`Sistemas de Informação`
 
-`DISCIPLINA`
+`Projeto: Aplicações WEB`
 
 `SEMESTRE`
 
