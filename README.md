@@ -1,4 +1,4 @@
-# Criação de site para o Lar Batista Elizabeth Mein (LARBEM - Instituição de Acolhimento de meninas em Recife-PE)
+# Criação de site para o Lar Batista Elizabeth Mein (LARBEM)
 
 
 `CURSO`
