@@ -49,7 +49,7 @@ as pessoas com acesso à internet.
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Objetivo Geral: Aumentar a visibilidade do Lar Batista Elizabeth Mein perante a sociedade com a criação de uma nova página na internet.
 
 Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
  
