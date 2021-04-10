@@ -3,11 +3,32 @@
 Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
+Em 2020, o Conselho Nacional de Justiça publicou o documento Diagnóstico sobre
+o Sistema Nacional de Adoção e Acolhimento, que é baseado nos dados colhidos no
+período entre outubro de 2019 a maio de 2020. Esse relatório apontou que no período
+existiam 34.157 crianças e adolescentes atendidas por 3.259 instituições de acolhimento
+no Brasil. Nesse grupo de mais de 3.000 instituições, está o Lar Batista Elizabeth Mein,
+conhecido como LARBEM e situado no Estado de Pernambuco, na capital Recife. 
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
+Com 67 anos de existência, o LARBEM é uma das entidades que integram a rede
+de proteção à infância e adolescência no Brasil. Tanto o LARBEM como as outras
+instituições de acolhimento realizam um trabalho de grande complexidade, pois são
+responsáveis por acolher e cuidar de crianças e adolescentes que sofreram algum tipo de
+violação de direito, numa sociedade que muitas vezes não dá a devida atenção nem o devido valor aos seus membros mais dependentes.
 
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
+Grande parte das instituições de acolhimento são organizações sem fins lucrativos
+que, para existir e se manter, dependem de doações dos apoiadores, tanto pessoas físicas
+como empresas que se comprometem a ajudar na manutenção das despesas. Também
+existe a possibilidade de recebimento de valores de fundos municipais, mediante a
+participação em editais. Porém, essas opções não cobrem o valor para manter os trabalhos,
+e muitas vezes é especificado que despesas esses valores podem custear.
+
+Com a atual situação dos desafios trazidos pela pandemia de COVID-19, as casas
+de acolhimento sofrem mais um impacto, pois as visitas estão suspensas e, devido às
+dificuldades financeiras enfrentadas por muitas famílias, as doações têm caído
+drasticamente. Nas palavras da própria diretora do LARBEM, em entrevista recente:
+“Quem doava R$60,00, agora doa R$ 30,00. Quem doava R$ 20,00, agora doa R$10,00.
+O LARBEM hoje está numa situação em que se encontra carente de tudo”.
 
 > **Links Úteis**:
 > - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
