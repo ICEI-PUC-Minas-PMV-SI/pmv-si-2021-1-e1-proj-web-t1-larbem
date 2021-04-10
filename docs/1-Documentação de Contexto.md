@@ -55,13 +55,7 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+A direção e voluntários do LARBEM estão trabalhando constantemente para melhorar a divulgação da instituição e com isso unir mais apoiadores a causa da manutenção do trabalho realizado, bem como melhoria continua do mesmo. Por conta disso a instituição possui conta empresarial no google e perfis nas redes sociais Facebook e Instagram, na primeira a página possui 727 curtidas e no instagram 523 seguidores. Nessas plataformas o LARBEM tem conseguido divulgar mais o seu trabalho e suas necessidades e por meio delas tem conhecido mais o perfil das pessoas que visualizam suas informações na internet.
+Atualmente o facebook aponta que 82,1% do público que curte a página do LARBEM é de mulheres, sendo a faixa etária da maior parte desse grupo de 25 a 44 anos, entre os homens que representam 17,9% a faixa etária predominante também é de 25 a 44 anos. No instagram a faixa etária de ambos os sexos permanece a mesma, porém o percentual de homens que seguem a conta aumenta e vai para 22,5%. Nessas duas redes sociais também foi percebido que majoritariamente o público do LARBEM é da cidade de Recife 61,8% no facebook e 63,5% no instagram e que o percentual de visualizações de pessoas de outros países é bastante baixa 2,5% no facebook e 1,2% no instagram. 
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+O objetivo principal do projeto de criação do site do LARBEM é aumentar a gama de pessoas que conhecem e apoiam o mesmo. Expandir as possibilidades de divulgação do trabalho realizado e da importância da participação da sociedade civil no apoio a uma instituição como o LARBEM. A ideia do site é atrair o público maior e mais diverso possível). A ideia é que a plataforma possua uma navegação otimizada e visual atrativo para que tanto pessoas jovens como pessoas com idade mais avançada, e pouco conhecimento e gosto pela internet possam navegar tranquilamente.
