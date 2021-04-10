@@ -26,14 +26,26 @@ e muitas vezes é especificado que despesas esses valores podem custear.
 Com a atual situação dos desafios trazidos pela pandemia de COVID-19, as casas
 de acolhimento sofrem mais um impacto, pois as visitas estão suspensas e, devido às
 dificuldades financeiras enfrentadas por muitas famílias, as doações têm caído
-drasticamente. Nas palavras da própria diretora do LARBEM, em entrevista recente:
+drasticamente. Nas palavras da própria diretora do LARBEM Teresa Nunes, em entrevista recente:
 “Quem doava R$60,00, agora doa R$ 30,00. Quem doava R$ 20,00, agora doa R$10,00.
 O LARBEM hoje está numa situação em que se encontra carente de tudo”.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+O relato ilustra como a atual situação impacta mais ainda aqueles que dependem de
+doações e deixa clara a necessidade de desenvolver formas de dar mais visibilidade e
+transparência para a instituição. O LARBEM realiza esse trabalho há mais de 60 anos,
+trabalho esse que não pode parar, pois crianças e adolescentes em situação de risco
+dependem dele. 
+6
+Atualmente, a falta de verba tem sido o principal dificultador, que
+consequentemente afeta todas as outras áreas da instituição, prejudicando a aquisição de
+suprimentos básicos, como: alimentos, produtos de limpeza e materiais escolares.
+Um dos principais motivos da falta de verba são as poucas doações que o Lar Batista
+Elizabeth Mein vem recebendo, muito devido à pouca divulgação de seus trabalhos para o
+público. No momento atual, a divulgação da instituição se limita às redes sociais (Facebook
+e Instagram), assim restringindo a comunicação apenas ao público usuário destas redes.
+Todos esses problemas seriam resolvidos com a criação de um site que combinasse
+todas essas questões, captação de doações e divulgação e transparência das ações
+realizadas pelo LARBEM. E diferentemente das redes sociais, o site será acessível a todas
+as pessoas com acesso à internet.
 
 ## Objetivos
 
