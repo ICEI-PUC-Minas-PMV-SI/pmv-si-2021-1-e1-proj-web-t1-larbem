@@ -58,12 +58,19 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
+O Estatuto da Criança e do Adolescente (1990), que consolida a legislação brasileira sobre a proteção a essa população, delega a toda a sociedade a responsabilidade de garantir a efetivação desses direitos. Diz o Artigo 4° que *“É dever da família, da comunidade, da sociedade em geral e do poder público assegurar, com absoluta prioridade, a efetivação dos direitos referentes à vida, à saúde, à alimentação, à educação, ao esporte, ao lazer, à profissionalização, à cultura, à dignidade, ao respeito, à liberdade e à convivência familiar e comunitária”*.
 
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Tal entendimento parte do Artigo 227 da Constituição Federal e é orientado pela Convenção Sobre os Direitos da Criança da Organização das Nações
+Unidas (ONU), assinada por 196 países e considerada um marco na garantia da dignidade das crianças e adolescentes. Os três documentos apontam na direção de uma sociedade comprometida com os direitos da criança e do adolescente e solidária aos casos de violação. Alinhado a esse propósito, o projeto do novo site do Lar Batista Elizabeth Mein (LARBEM) busca melhorar sua comunicação com a sociedade, engajando novos apoiadores e reforçando o trabalho desempenhando na defesa dos direitos fundamentais das crianças atendidas.
+
+Conforme já apresentado, o LARBEM enfrenta dificuldades financeiras, agravadas pela pandemia de covid-19, para atender às necessidades de seus acolhidos, pois precisa do engajamento da comunidade por meio de voluntariado e doações para manter seu trabalho não apenas em curso, mas também dentro dos parâmetros legais que possibilitam seu funcionamento. As dificuldades estruturais causadas pela falta de recursos não se limitam ao prédio do LARBEM e afetam também sua presença na internet, onde um blog desatualizado há 10 anos é sua página principal. A página já conta com funcionalidades importantes, como notícias e a história da instituição, formas de contato e cadastro para doação, porém a desatualização e a defasagem tecnológica em relação a recursos utilizados por outros sites de organizações do terceiro setor representam uma perda de credibilidade e de oportunidades de engajamento.
+
+Segundo a Pesquisa Nacional por Amostra de Domicílios - Tecnologia da Informação e Comunicação (PNAD-TIC), divulgada no ano passado com dados de 2018, o estado de Pernambuco, onde fica localizado o lar de acolhimento, tinha 71,8% dos seus domicílios conectados. Em números absolutos, são 2,27 milhões de lares, aos quais informações sobre o trabalho e as necessidades do LARBEM poderiam estar disponíveis. Para além disso, uma página mais dinâmica e bem estruturada pode projetar o Larbem para além das divisas estaduais, atraindo apoiadores de outras localidades. Uma página na internet é uma ferramenta importante para o marketing de uma instituição nos dias atuais, comprenedendo marketing segundo Kotler e Keller (2006, p. 4). *“...Marketing identifica necessidades e desejos não realizados, [...] ele aponta quais os segmentos que a empresa é capaz de servir melhor e que projeta e promove os produtos e serviços adequados.”* 
+
+Dentro do que se entende por marketing, a iniciativa contribui para o escopo do que Kotler (1992, p. 25) define como Marketing Social. *“Marketing Social é um processo que aplica princípios e técnicas para criar, comunicar e entregar valor de forma a influenciar comportamentos do público alvo que beneficiem a sociedade [...] assim como o próprio público alvo.”* 
 
 > **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+> - [Blog do Larbem](http://larbem.blogspot.com/)
 
 ## Público-Alvo
 
