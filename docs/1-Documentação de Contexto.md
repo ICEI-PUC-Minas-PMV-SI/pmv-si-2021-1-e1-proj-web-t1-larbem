@@ -67,10 +67,29 @@ Conforme já apresentado, o LARBEM enfrenta dificuldades financeiras, agravadas 
 
 Segundo a Pesquisa Nacional por Amostra de Domicílios - Tecnologia da Informação e Comunicação (PNAD-TIC), divulgada no ano passado com dados de 2018, o estado de Pernambuco, onde fica localizado o lar de acolhimento, tinha 71,8% dos seus domicílios conectados. Em números absolutos, são 2,27 milhões de lares, aos quais informações sobre o trabalho e as necessidades do LARBEM poderiam estar disponíveis. Para além disso, uma página mais dinâmica e bem estruturada pode projetar o Larbem para além das divisas estaduais, atraindo apoiadores de outras localidades. Uma página na internet é uma ferramenta importante para o marketing de uma instituição nos dias atuais, comprenedendo marketing segundo Kotler e Keller (2006, p. 4). *“...Marketing identifica necessidades e desejos não realizados, [...] ele aponta quais os segmentos que a empresa é capaz de servir melhor e que projeta e promove os produtos e serviços adequados.”* 
 
-Dentro do que se entende por marketing, a iniciativa contribui para o escopo do que Kotler (1992, p. 25) define como Marketing Social. *“Marketing Social é um processo que aplica princípios e técnicas para criar, comunicar e entregar valor de forma a influenciar comportamentos do público alvo que beneficiem a sociedade [...] assim como o próprio público alvo.”* 
+Dentro do que se entende por marketing, a iniciativa contribui para o escopo do que Kotler (1992, p. 25) define como Marketing Social. *“Marketing Social é um processo que aplica princípios e técnicas para criar, comunicar e entregar valor de forma a influenciar comportamentos do público alvo que beneficiem a sociedade [...] assim como o próprio público alvo.”*
+
+Assim, para o desenvolvimento de uma página que fomente o engajamento social e promova a transparência informacional, torna-se imprescindível uma análise do estado da arte de outras instituições de acolhimento de crianças e adolescentes. Na página da *Associação de Assistência à Criança Deficiente* (AACD), por exemplo, é possível reconhecer os benefícios de um conteúdo atualizado e dinâmico. Nas figuras a seguir, é perceptível que a interatividade da página é operacionalizada por meio de recursos gráficos intuitivos. Por meio de um slider, no acesso inicial, é proporcionado ao usuário a síntese dos dados institucionais e financeiros, bem como das atividades desempenhadas pela instituição.
+
+<img width="720" alt="Foto2" src="https://user-images.githubusercontent.com/73617898/114318781-f810be80-9ae4-11eb-9afe-6a1b6b71faf0.png">
+
+<img width="720" alt="Foto4" src="https://user-images.githubusercontent.com/73617898/114318831-255d6c80-9ae5-11eb-8888-b73221b8f9f4.png">
+
+Um outro exemplo é verificado na página da organização americana *Save the Children*, na qual há a presença de um menu superior que organiza a experiência do usuário. Ademais, destaca-se a estratégia de *“storytelling”* que visa engajar o usuário pelas seguintes questões: “Quem somos?"; “O que fazemos?”.
+
+<img width="720" alt="Foto 3" src="https://user-images.githubusercontent.com/73617898/114318812-124a9c80-9ae5-11eb-8ac7-ae91511ce7a3.png">
+
+À vista dessa breve análise, o novo site representará uma oportunidade de impulsionar o LARBEM ao nível macrorregional e nacional, permitindo maior visibilidade de sua história e integração com os apoiadores. Isso porque a criação de uma plataforma intuitiva e acolhedora não só oferece maior credibilidade institucional, mas também contribui no posicionamento do site nos mecanismos de busca, por exemplo, no Google. Visando o *"Search Engine Optimization"* (SEO) do Google e seguindo as boas práticas do desenvolvimento-web, o novo site se pauta na ideia de *“mobile-first”* que valoriza a compatibilidade multi-plataforma.
+
+A partir da elaboração visual, segue-se a implementação de ferramentas de interação entre o LARBEM e o apoiador. Em especial, a integração de mecanismos de pagamentos (doações) por meio de APIs, por exemplo, Pix, PayPal ou PagSeguro. Convém lembrar que essa etapa é essencial para atingir os objetivos, já que permite a continuidade do apoio psicológico e educacional às crianças e adolescentes assistidas pelo LARBEM. 
+
+Infere-se, portanto, que a entrega de um novo site para o LARBEM se pauta por fortalecer o compromisso social com os direitos da criança e do adolescente, previstos nos principais documentos nacionais e internacionais sobre o tema. Por meio dessa entrega, pretende-se envolver a comunidade nas garantias constitucionais à criança e ao adolescente e garantir a continuidade do LARBEM.
 
 > **Links Úteis**:
 > - [Blog do Larbem](http://larbem.blogspot.com/)
+> - [AACD](https://aacd.org.br/)
+> - [Save the Children](https://www.savethechildren.org/)
+
 
 ## Público-Alvo
 
