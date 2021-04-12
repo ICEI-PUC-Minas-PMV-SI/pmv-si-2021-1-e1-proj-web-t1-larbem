@@ -51,9 +51,12 @@ as pessoas com acesso à internet.
 
 Objetivo Geral: Aumentar a visibilidade do Lar Batista Elizabeth Mein perante a sociedade com a criação de uma nova página na internet.
 
-Objetivos Específicos do site do LARBEM: 
+Objetivos Específicos do site do LARBEM:
+
 • Facilitar a arrecadação de doações para manutenção do lar de acolhimento; 
+
 • Encorajar parcerias público-privadas; 
+
 • Possibilitar a capacitação dos funcionários e gestores;
 
 ## Justificativa
