@@ -59,6 +59,13 @@ Objetivos Específicos do site do LARBEM:
 
 • Possibilitar a capacitação dos funcionários e gestores;
 
+• Divulgar informações atualizadas sobre o dia a dia do LARBEM, sobre a rede de proteção à infância e adolescência, sobre o ECA (Estatuto da Criança e do Adolescente) e sobre o tema da adoção; 
+
+• Ampliar o corpo de voluntários através de inscrições feitas pelo site; 
+
+• Fidelização do público-alvo com transparência na disponibilização de balancetes publicados mensalmente com todos os ganhos e gastos feitos;
+
+
 ## Justificativa
 
 O Estatuto da Criança e do Adolescente (1990), que consolida a legislação brasileira sobre a proteção a essa população, delega a toda a sociedade a responsabilidade de garantir a efetivação desses direitos. Diz o Artigo 4° que *“É dever da família, da comunidade, da sociedade em geral e do poder público assegurar, com absoluta prioridade, a efetivação dos direitos referentes à vida, à saúde, à alimentação, à educação, ao esporte, ao lazer, à profissionalização, à cultura, à dignidade, ao respeito, à liberdade e à convivência familiar e comunitária”*.
