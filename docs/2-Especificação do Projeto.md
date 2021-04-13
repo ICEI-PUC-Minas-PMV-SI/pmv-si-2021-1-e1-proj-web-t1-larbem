@@ -30,7 +30,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Interessado no LARBEM  | encontrar informações sobre a missão e o histórico do LARBEM          | Decidir se e como ajudar               |
+|Interessado no LARBEM  | Encontrar um template intuitivo e confiável que seja capaz de apresentar informações de forma clara e eficiente         | Convencer o interessado a divulgar o LARBEM               |
+|Interessado no LARBEM  | Encontrar informações sobre a missão e o histórico do LARBEM          | Decidir se e como ajudar               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
