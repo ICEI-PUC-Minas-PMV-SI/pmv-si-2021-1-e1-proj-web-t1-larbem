@@ -1,51 +1,21 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Em 2020, o Conselho Nacional de Justiça publicou o documento Diagnóstico sobre o Sistema Nacional de Adoção e Acolhimento, baseado nos dados colhidos no período entre outubro de 2019 a maio de 2020. Esse relatório apontou que no período existiam 34.157 crianças e adolescentes atendidas por 3.259 instituições de acolhimento no Brasil. Nesse grupo, de mais de 3.000 instituições, está o Lar Batista Elizabeth Mein conhecido como LARBEM essa instituição é localizada no Estado de Pernambuco, na capital Recife. Com 67 anos de existência, o LARBEM é uma das entidades que integram a rede de proteção à infância e adolescência no Brasil. Tanto o LARBEM como as outras instituições de acolhimento realizam um trabalho de grande complexidade, pois são responsáveis por acolher e cuidar de crianças e adolescentes que sofreram algum tipo de violação de direito, numa sociedade que muitas vezes não dá a devida atenção nem o devido valor aos seus membros mais dependentes. Grande parte das instituições de acolhimento são organizações sem fins lucrativos que, para existir e se manter, dependem de doações dos apoiadores, tanto pessoas físicas como empresas que se comprometem a ajudar na manutenção das despesas. Também existe a possibilidade de recebimento de valores de fundos municipais, mediante a participação em editais. Porém, essas opções não cobrem o valor para manter os trabalhos, e muitas vezes é especificado que despesas esses valores podem custear. 
+
+A atual situação trazida pela pandemia de COVID-19 aumentou os desafios, das casas de acolhimento que sofrem mais um impacto, pois as visitas estão suspensas e, devido às dificuldades financeiras enfrentadas por muitas famílias, as doações têm caído drasticamente. Nas palavras da  diretora do Teresinha Nunes, em entrevista recente: “Quem doava R$60,00, agora doa R$ 30,00. Quem doava R$ 20,00, agora doa R$10,00. O LARBEM hoje está numa situação em que se encontra carente de tudo”. O relato ilustra como a atual situação impacta mais ainda aqueles que dependem de doações e deixa clara a necessidade de desenvolver formas de dar mais visibilidade e transparência para a instituição. 
+
+O Objetivo principal do projeto é a criação de um site para divulgação do trabalho realizado pelo LARBEM e dos dados financeiros para aumento da transparência, para que essa divulgação atraia mais doadores. Os objetivos específicos seriam a facilitação da arrecadação de doações, divulgação de informações sobre a rede de proteção a infância, Estatuto da criança e do adolescente(ECA), sobre o tema da adoção, divulgação das vagas para voluntariado e fidelização dos doadores através da transparência das informações divulgadas sobre dados financeiros e trabalho realizado.
+
+A escolha da criação de um site para o LARBEM veio da identificação da falta de informações atualizadas, visualmente atrativas e de fácil acesso a respeito da instituição. Foi identificado que atualmente somente alguns sites avulsos apresentam informações sobre a instituição e que o mesmo não possui um site próprio, mas somente uma página do tipo Blog que foi criada por estudantes de uma faculdade da cidade onde o LARBEM está localizado, mas que não foi mantido pelos mesmos. 
+A existência de um site próprio do LARBEM com visual atrativo e dados atualizados pode apoiar na captação de recursos financeiros para continuidade e melhoria do trabalho realizado, visto que em pesquisa de mercado avaliando sites de organizações do 3 setor foi possível identificar que organizações de referência mantém sites próprios com as características identificadas como ideias para o site do LARBEM. A potencialidade dessa ferramenta para atrair mais apoiadores para o LARBEM pode ser inferida pelos dados do PNAD-TIC, divulgados em 2020 referentes a pesquisa realizada em 2018, onde o estado de Pernambuco tinha 71,8% dos seus domicílios conectados, o que representa em números absolutos 2,27 milhões de lares. Ou seja, são 2,27 milhões de lares para os quais informações sobre o trabalho e as necessidades do LARBEM poderiam estar disponíveis. Esses dados trazem a dimensão do potencial que o atual projeto proposto possui de ajudar o LARBEM de maneira efetiva.
 
 ## Problema
-Em 2020, o Conselho Nacional de Justiça publicou o documento Diagnóstico sobre
-o Sistema Nacional de Adoção e Acolhimento, que é baseado nos dados colhidos no
-período entre outubro de 2019 a maio de 2020. Esse relatório apontou que no período
-existiam 34.157 crianças e adolescentes atendidas por 3.259 instituições de acolhimento
-no Brasil. Nesse grupo de mais de 3.000 instituições, está o Lar Batista Elizabeth Mein,
-conhecido como LARBEM e situado no Estado de Pernambuco, na capital Recife. 
+Fundado em 1954 pela União Feminina Missionária Batista de Pernambuco o LARBEM (Lar batista Elizabeth Mein), sob o CNPJ 11.993/0001-20, é uma instituição de acolhimento que atende crianças e adolescentes de 08 a 18 anos, sediada à Rua General Mens Berreto, n° 97, Bairro Iputinga, em Recife capital do estado de Pernambuco. O orfanato atende meninas encaminhadas pela justiça que sofreram algum tipo de violação de direitos, fornecendo moradia, apoio psicossocial, acompanhamento junto a família de origem onde é trabalhada a reinserção caso seja possível ou o encaminhamento para o cadastro nacional de adoção, além do apoio no encaminhamento para cursos profissionalizantes para a construção de uma nova visão de futuro para as acolhidas, atualmente 12 meninas vivem no LARBEM, sendo o perfil de atendimento da casa de até 20 meninas. O LARBEM conta com o corpo técnico formado por uma Psicóloga e uma Assistente Social, profissionais habilitadas para cuidar dos casos de cada menor individualmente e que respondem tecnicamente pela casa, além de 3 cuidadoras sociais que são responsáveis pelos cuidados diários com as menores , uma cozinheira e uma diarista que trabalha na limpeza do prédio. O corpo diretor da organização é totalmente formado por voluntárias que não recebem salário e nenhum tipo de retorno financeiro pelo trabalho realizado, todas as voluantárias fazem parte da União Feminina Missionária Batista de Pernambuco que anualmente realiza assembleia para eleição dos cargos de Diretora, Vice-diretora, Tesoureira, primeira, segunda e terceira secretárias. Mesmo sendo a instituição de acolhimento mais antiga em funcionamento no estado de Pernambuco a entidade sente um distanciamento do público em geral com o trabalho realizado, tendo em vista as dificuldades enfrentadas pela direção e tesouraria para arrecadar as doações necessárias para a completa manutenção das despesas de funcionamento. De acordo com a Tesoureira da entidade Celi Amorim, é necessário um grande esforço para tentar manter as contas em dia e sempre estão enfrentando despesas extraordinárias com a manutenção do prédio do LARBEM, além das adequações para estar de acordo com a regulamentação de órgãos de fiscalização como a vigilância sanitária e o corpo de bombeiros. Por exemplo, atualmente o LARBEM está com uma demanda de adequação junto ao Corpo de Bombeiros relativa a entrega do projeto arquitetônico do prédio e do projeto de prevenção contra Incêndio e Pânico, que fora cotado junto a uma empresa especializada e os custos chegam a quase R$ 10.000,00, como para uma instalação de um hidrante na calçada de frente ao prédio. Com caráter não governamental, a instituição conta com doações para custear suas despesas, sendo necessário aumentar cada vez mais a adesão da sociedade civil ao trabalho realizado de forma que a seriedade da organização possa atrair mais apoiadores. 
 
-Com 67 anos de existência, o LARBEM é uma das entidades que integram a rede
-de proteção à infância e adolescência no Brasil. Tanto o LARBEM como as outras
-instituições de acolhimento realizam um trabalho de grande complexidade, pois são
-responsáveis por acolher e cuidar de crianças e adolescentes que sofreram algum tipo de
-violação de direito, numa sociedade que muitas vezes não dá a devida atenção nem o devido valor aos seus membros mais dependentes.
+O LARBEM realiza esse trabalho tão importante há mais de 60 anos, trabalho esse que não pode parar, pois crianças e adolescentes em situação de risco dependem dele. E a falta de verba tem sido o principal dificultador, que consequentemente afeta todas as outras áreas da instituição, prejudicando a aquisição de suprimentos básicos, como: alimentos, produtos de limpeza e materiais escolares. Um dos principais motivos da falta de verba são as poucas doações que o Lar Batista Elizabeth Mein vem recebendo, sendo um fator de grande influência nesse problema a pouca divulgação de seus trabalhos para o público em geral. No momento atual, a divulgação da instituição se limita às redes sociais (Facebook e Instagram), assim restringindo a comunicação apenas ao público usuário destas redes. Essa limitação pode ser resolvida com a criação de um site que combinasse todas essas questões: captação de doações e divulgação e transparência das ações realizadas pelo LARBEM. E diferentemente das redes sociais, o site será acessível para todas as pessoas com acesso à internet.
 
-Grande parte das instituições de acolhimento são organizações sem fins lucrativos
-que, para existir e se manter, dependem de doações dos apoiadores, tanto pessoas físicas
-como empresas que se comprometem a ajudar na manutenção das despesas. Também
-existe a possibilidade de recebimento de valores de fundos municipais, mediante a
-participação em editais. Porém, essas opções não cobrem o valor para manter os trabalhos,
-e muitas vezes é especificado que despesas esses valores podem custear.
+Por isso, a proposta desse projeto é a criação de um site para a instituição, em que será possível a divulgação de suas ações para a sociedade com o principal foco sendo a atração de mais doadores. Esse site será modelado para apresentar um conteúdo de fácil entendimento, dinâmico e visualmente convidativo para aumentar o engajamento da população junto a instituição. 
 
-Com a atual situação dos desafios trazidos pela pandemia de COVID-19, as casas
-de acolhimento sofrem mais um impacto, pois as visitas estão suspensas e, devido às
-dificuldades financeiras enfrentadas por muitas famílias, as doações têm caído
-drasticamente. Nas palavras da própria diretora do LARBEM Teresa Nunes, em entrevista recente:
-“Quem doava R$60,00, agora doa R$ 30,00. Quem doava R$ 20,00, agora doa R$10,00.
-O LARBEM hoje está numa situação em que se encontra carente de tudo”.
-O relato ilustra como a atual situação impacta mais ainda aqueles que dependem de
-doações e deixa clara a necessidade de desenvolver formas de dar mais visibilidade e
-transparência para a instituição. O LARBEM realiza esse trabalho há mais de 60 anos,
-trabalho esse que não pode parar, pois crianças e adolescentes em situação de risco
-dependem dele. 
-6
-Atualmente, a falta de verba tem sido o principal dificultador, que
-consequentemente afeta todas as outras áreas da instituição, prejudicando a aquisição de
-suprimentos básicos, como: alimentos, produtos de limpeza e materiais escolares.
-Um dos principais motivos da falta de verba são as poucas doações que o Lar Batista
-Elizabeth Mein vem recebendo, muito devido à pouca divulgação de seus trabalhos para o
-público. No momento atual, a divulgação da instituição se limita às redes sociais (Facebook
-e Instagram), assim restringindo a comunicação apenas ao público usuário destas redes.
-Todos esses problemas seriam resolvidos com a criação de um site que combinasse
-todas essas questões, captação de doações e divulgação e transparência das ações
-realizadas pelo LARBEM. E diferentemente das redes sociais, o site será acessível a todas
-as pessoas com acesso à internet.
 
 ## Objetivos
 
