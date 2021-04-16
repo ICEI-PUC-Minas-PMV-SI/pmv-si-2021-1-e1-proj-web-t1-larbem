@@ -14,7 +14,7 @@ Por isso, a proposta desse projeto é a criação de um site para a instituiçã
 
 ## Objetivos
 
-Objetivo Geral: Aumentar a visibilidade do Lar Batista Elizabeth Mein perante a sociedade com a criação de uma nova página na internet.
+O Objetivo principal do projeto é a criação de um site para divulgação do trabalho realizado pelo LARBEM e dos dados financeiros para aumento da transparência, para que essa divulgação atraia mais doadores. Os objetivos específicos seriam a facilitação da arrecadação de doações, divulgação de informações sobre a rede de proteção a infância, Estatuto da criança e do adolescente(ECA), sobre o tema da adoção, divulgação das vagas para voluntariado e fidelização dos doadores através da transparência das informações divulgadas sobre dados financeiros e trabalho realizado aumentando assim a visibilidade do Lar Batista Elizabeth Mein perante a sociedade com a criação de uma nova página na internet.
 
 Objetivos Específicos do site do LARBEM:
 
