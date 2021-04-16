@@ -14,7 +14,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 **Laura Cardoso** tem 29 anos, é formado em economia pela UFPE e atualmente trabalha como analista financeira em uma empresa de engenharia civil no Recife. Em seu tempo livre Laura gosta de ler, viajar e utilizar suas redes sociais, como Instagram e Facebook, para interagir com seus amigos. Por meio do uso das redes sociais Laura conheceu o LARBEM, se interessou nos trabalhos de caridades realizados e procura como contribuir com a instituição através do trabalho voluntario.
 
-**Marcela Santos** tem 23 anos e está no último período do curso de Administração em uma universidade particular de Recife. Ela é a filha mais velha de três irmãos e vive com os pais no bairro de Campo Grande, na capital pernambucana. Gosta de sair com os amigos e aproveitar a orla da cidade aos fins de semana, além de assistir a filmes no cinema e na TV. Marcela trabalha como voluntária do Larbem há cinco anos, e, por ser a voluntária mais jovem e com maior afinidade com a internet, assumiu a administração do site. Apesar disso, ela tem conhecimentos básicos sobre o funcionamento da web.
+**Marcela Santos** tem 23 anos, está no último período do curso de Pedagogia em uma universidade particular de Recife e é **Administradora do Site do Larbem**. Ela é a filha mais velha de três irmãos e vive com os pais no bairro de Campo Grande, na capital pernambucana. Gosta de sair com os amigos e aproveitar a orla da cidade aos fins de semana, além de assistir a filmes no cinema e na TV. Marcela trabalha como voluntária do Larbem há cinco anos, e, por ser a voluntária mais jovem e com maior afinidade com a internet, assumiu a administração do site. Apesar disso, ela tem conhecimentos básicos sobre o funcionamento da web.
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
@@ -36,7 +36,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |--------------------|------------------------------------|----------------------------------------|
 |Interessado no LARBEM  | Encontrar um template intuitivo e confiável que seja capaz de apresentar informações de forma clara e eficiente         | Convencer o interessado a divulgar o LARBEM               |
 |Interessado no LARBEM  | Encontrar informações sobre a missão e o histórico do LARBEM          | Decidir se e como ajudar               |
-|Administrador do site do Larbem      | Atualizar o site                 | Manter os doadores e voluntários informados e conseguir novos apoiadores para o Larbem |
+|Administrador do site do Larbem      | Publicar notícias, balanços de atividades e gastos e vagas de voluntiariado no site do LARBEM                 | Manter os doadores e voluntários informados e conseguir novos apoiadores para o Larbem |
 |Interessado em voluntariar | Encontrar informações sobre como me inscrever e poder me tornar voluntária do lar | Ajudar a instituição e saber como me inscrever como voluntário |
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
