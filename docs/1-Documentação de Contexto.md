@@ -25,9 +25,7 @@ Objetivos Específicos do site do LARBEM:
 
 • Facilitar a arrecadação de doações para manutenção do lar de acolhimento; 
 
-• Encorajar parcerias público-privadas; 
-
-• Possibilitar a capacitação dos funcionários e gestores;
+• Encorajar parcerias privadas; 
 
 • Divulgar informações atualizadas sobre o dia a dia do LARBEM, sobre a rede de proteção à infância e adolescência, sobre o ECA (Estatuto da Criança e do Adolescente) e sobre o tema da adoção; 
 
