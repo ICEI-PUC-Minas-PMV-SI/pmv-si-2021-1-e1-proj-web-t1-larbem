@@ -21,7 +21,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Interessada em conhecer/doar  |Encontrar informações sobre a missão e o histórico do LARBEM          | Checar se a missão é compatível com os seus interesses e decidir se deve ou não doar               |
-|Doador do LARBEM  | Confererir balanços de gastos, e utilizar funcionalidade de acesso ao doador          | Saber qual a melhor forma de ajudar              |
+|Doador do LARBEM  | Conferir balanços de gastos, e utilizar funcionalidade de doação pelo site          | Saber qual a melhor forma de ajudar              |
 |Administrador do site do Larbem      | Publicar notícias, balanços de atividades e gastos e vagas de voluntiariado no site do LARBEM                 | Manter os doadores e voluntários informados e conseguir novos apoiadores para o Larbem |
 |Interessado em voluntariar | Encontrar informações sobre como me inscrever e poder me tornar voluntária do lar | Ajudar a instituição e saber como me inscrever como voluntário |
 
