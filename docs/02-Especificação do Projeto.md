@@ -12,7 +12,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 **Carlos Alberto Silva (Doador do LARBEM)** tem 38 anos, nasceu e se formou em Recife. Ele trabalha como professor, e através de um amigo de profissão conheceu o projeto LARBEM. Interessa-se por ações sociais, principalmente quando envolvem crianças, o que levou a se tornar doador do LARBEM. Em suas aulas Carlos Alberto incentiva os alunos, seus pais e seus colegas de profissão a conhecerem, e ajudarem neste projeto. Em suas horas de lazer gosta de visitar seus Pais, familiares e prestar ajuda à comunidade que reside.
 
-**Laura Cardoso** tem 29 anos, é formado em economia pela UFPE e atualmente trabalha como analista financeira em uma empresa de engenharia civil no Recife. Em seu tempo livre Laura gosta de ler, viajar e utilizar suas redes sociais, como Instagram e Facebook, para interagir com seus amigos. Por meio do uso das redes sociais Laura conheceu o LARBEM, se interessou nos trabalhos de caridades realizados e procura como contribuir com a instituição através do trabalho voluntario.
+**Laura Cardoso (Interessada em ser voluntária)** tem 29 anos, é formada em economia pela UFPE e atualmente trabalha como analista financeira em uma empresa de engenharia civil no Recife. Em seu tempo livre Laura gosta de ler, viajar e utilizar suas redes sociais, como Instagram e Facebook, para interagir com seus amigos. Por meio do uso das redes sociais Laura conheceu o LARBEM, se interessou nos trabalhos de caridades realizados e procura como contribuir com a instituição através do trabalho voluntário.
 
 **Marcela Santos (Administradora do Site do Larbem)** tem 23 anos e está no último período do curso de Pedagogia em uma universidade particular de Recife. Ela é a filha mais velha de três irmãos e vive com os pais no bairro de Campo Grande, na capital pernambucana. Gosta de sair com os amigos e aproveitar a orla da cidade aos fins de semana, além de assistir a filmes no cinema e na TV. Marcela trabalha como voluntária do Larbem há cinco anos, e, por ser a voluntária mais jovem e com maior afinidade com a internet, assumiu a administração do site. Apesar disso, ela tem conhecimentos básicos sobre o funcionamento da web.
 
@@ -21,9 +21,9 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Interessada em conhecer/doar  |Encontrar informações sobre a missão e o histórico do LARBEM          | Checar se a missão é compatível com os seus interesses e decidir se deve ou não doar               |
-|Doador do LARBEM  | Conferir balanços de gastos, doar pelo site          | Acompanhar as ações realizadas e o uso do dinheiro das doações              |
+|Doador do LARBEM  | Conferir balanços de gastos e doar pelo site          | Acompanhar as ações realizadas e o uso do dinheiro das doações              |
 |Administrador do site do Larbem      | Publicar notícias, balanços de atividades e gastos e vagas de voluntiariado no site do LARBEM                 | Manter os doadores e voluntários informados e conseguir novos apoiadores para o Larbem |
-|Interessado em voluntariar | Encontrar informações sobre como me inscrever e poder me tornar voluntária do lar | Ajudar a instituição e saber como me inscrever como voluntário |
+|Interessado em ser voluntária | Encontrar informações sobre como se inscrever para voluntariado no LARBEM | Se tornar voluntária para ajudar a instituição com suas habilidades |
 
 ## Requisitos
 
