@@ -4,6 +4,8 @@
 
 **ASSOCIAÇÃO de Assistência à Criança Deficiente (AACD).** Página principal da AACD. Disponível em: https://aacd.org.br. Acessado em: 04/04/2021.
 
+**Brasil. Conselho Nacional de Justiça (CNJ).** Diagnóstico sobre o Sistema Nacional de Adoção e Acolhimento/ Conselho Nacional de Justiça – Brasília: CNJ, 2020
+
 **BRASIL. Constituição da República Federativa do Brasil**, de 05 de Dezembro de 1988.
 
 **BRASIL. Estatuto da Criança e do Adolescente**. Lei 8.069/90, de 13 de julho de 1990.
