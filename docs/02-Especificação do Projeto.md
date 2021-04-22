@@ -42,8 +42,11 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| Site otimizado para celular (Mobile-First) | ALTA|
+|RNF-002| Cores trabalhadas devem atender a identidade visual do LARBEM de acordo com a logomarca da instituição | ALTA |
+|RNF-003| Site deve ser desenvolvido com estrutura que facilite a manutenção | ALTA |
+|RNF-004| Utilização de html5 para desenvolvimento do mesmo | ALTA |
+|RNF-005| Nas páginas em que houver o predomínio de informações, na forma de textos curtos ou longos, deve-se diagramar por um sistema duplo de cores (Título - Rosa e Corpo do Texto - Preto) e utilizar uma fonte de fácil leitura (Roboto - Tamanho 14 ou 16) | MÉDIA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
