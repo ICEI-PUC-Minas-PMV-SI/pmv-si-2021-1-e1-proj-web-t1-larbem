@@ -29,8 +29,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+|RF-001| Publicar e editar publicações com notícias sobre o LARBEM e os direitos das crianças e adolescentes | ALTA | 
+|RF-002| Editar e hieraquizar publicações e informações na home do site do LARBEM   | ALTA |
+|RF-003| Atualizar quadro de vagas de voluntariado no LARBEM   | MÉDIA |
+|RF-004| Atualizar dados em quadro ilustrativo de gastos do LARBEM   | BAIXA |
+|RF-005| Publicar documentos digitalizados com prestação de contas do LARBEM   | ALTA |
+|RF-006| Incorporar (embedar) publicações das redes sociais do LARBEM na home do site  | BAIXA |
 
 
 ### Requisitos não Funcionais
