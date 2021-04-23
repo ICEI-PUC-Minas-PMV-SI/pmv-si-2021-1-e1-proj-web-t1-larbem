@@ -10,15 +10,12 @@
 
 **Laura Cardoso (Interessada em ser voluntária)** tem 29 anos, é formada em economia pela UFPE e atualmente trabalha como analista financeira em uma empresa de engenharia civil no Recife. Em seu tempo livre Laura gosta de ler, viajar e utilizar suas redes sociais, como Instagram e Facebook, para interagir com seus amigos. Por meio do uso das redes sociais Laura conheceu o LARBEM, se interessou nos trabalhos de caridades realizados e procura como contribuir com a instituição através do trabalho voluntário.
 
-**Marcela Santos (Administradora do Site do LARBEM)** tem 23 anos e está no último período do curso de Pedagogia em uma universidade particular de Recife. Ela é a filha mais velha de três irmãos e vive com os pais no bairro de Campo Grande, na capital pernambucana. Gosta de sair com os amigos e aproveitar a orla da cidade aos fins de semana, além de assistir a filmes no cinema e na TV. Marcela trabalha como voluntária do LARBEM há cinco anos, e, por ser a voluntária mais jovem e com maior afinidade com a internet, assumiu a administração do site. Apesar disso, ela tem conhecimentos básicos sobre o funcionamento da web.
-
 ## Histórias de Usuários
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Interessada em conhecer/doar  |Encontrar informações sobre a missão e o histórico do LARBEM          | Checar se a missão é compatível com os seus interesses e decidir se deve ou não doar               |
 |Doador  | Conferir balanços de gastos e doar pelo site          | Acompanhar as ações realizadas e o uso do dinheiro das doações              |
-|Administradora do Site do Larbem      | Publicar notícias, balanços de atividades e gastos e vagas de voluntiariado no site do LARBEM                 | Manter os doadores e voluntários informados e conseguir novos apoiadores para o Larbem |
 |Interessada em ser voluntária | Encontrar informações sobre como se inscrever para voluntariado no LARBEM |Tornar-se voluntária para ajudar a instituição com suas habilidades |
 
 ## Requisitos
@@ -29,8 +26,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Publicar e editar publicações com notícias sobre o LARBEM e os direitos das crianças e adolescentes | ALTA | 
-|RF-002| Editar e hieraquizar publicações e informações na home do site do LARBEM   | ALTA |
 |RF-003| Atualizar quadro de vagas de voluntariado no LARBEM   | MÉDIA |
 |RF-004| Atualizar dados em quadro ilustrativo de gastos do LARBEM   | BAIXA |
 |RF-005| Publicar documentos digitalizados com prestação de contas do LARBEM   | ALTA |
