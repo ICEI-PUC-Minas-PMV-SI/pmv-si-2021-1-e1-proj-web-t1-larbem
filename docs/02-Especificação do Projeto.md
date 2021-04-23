@@ -6,7 +6,7 @@
 
 **Marília Amorim (Interessada em conhecer/doar)** tem 41 anos, nasceu em Recife e concluiu o Ensino Médio. Ela trabalha como microempreendedora, vendendo doces e bolos, e tem uma renda que varia de R$ 2 mil a R$ 4 mil. Como interessada em conhecer ações e instituições, ela ouviu falar sobre o LARBEM em um grupo de fiéis de sua igreja no Whastapp, rede social que usa tanto para receber pedidos quanto se conectar com amigos e familiares. Ela também usa o Facebook e o Instagram para divulgar seu trabalho, com a ajuda da filha mais velha, que é mais familiarizada com as redes sociais. Em suas horas de lazer, gosta de visitar amigos e familiares, além de assistir TV e ir para a igreja.
 
-**Carlos Alberto Silva (Doador do LARBEM)** tem 38 anos, nasceu e se formou em Recife. Ele trabalha como professor, e através de um amigo de profissão conheceu o projeto LARBEM. Interessa-se por ações sociais, principalmente quando envolvem crianças, o que levou a se tornar doador do LARBEM. Em suas aulas Carlos Alberto incentiva os alunos, seus pais e seus colegas de profissão a conhecerem, e ajudarem neste projeto. Em suas horas de lazer gosta de visitar seus Pais, familiares e prestar ajuda à comunidade que reside.
+**Carlos Alberto Silva (Doador do LARBEM)** tem 38 anos, nasceu e se formou em Recife. Ele trabalha como professor, e através de um amigo de profissão conheceu o projeto LARBEM. Interessa-se por ações sociais, principalmente quando envolvem crianças, o que levou a se tornar doador do LARBEM. Em suas aulas Carlos Alberto incentiva os alunos, seus pais e seus colegas de profissão a conhecerem, e ajudarem neste projeto. Em suas horas de lazer gosta de visitar seus Pais, familiares e prestar ajuda à comunidade que reside. Ele deseja ver ao acessar o site uma página mostrando onde está sendo empregado o valor arrecadado nas doações.
 
 **Laura Cardoso (Interessada em ser voluntária)** tem 29 anos, é formada em economia pela UFPE e atualmente trabalha como analista financeira em uma empresa de engenharia civil no Recife. Em seu tempo livre Laura gosta de ler, viajar e utilizar suas redes sociais, como Instagram e Facebook, para interagir com seus amigos. Por meio do uso das redes sociais Laura conheceu o LARBEM, se interessou nos trabalhos de caridades realizados e procura como contribuir com a instituição através do trabalho voluntário.
 
@@ -17,7 +17,7 @@
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Interessada em conhecer/doar  |Encontrar informações sobre a missão e o histórico do LARBEM          | Checar se a missão é compatível com os seus interesses e decidir se deve ou não doar               |
-|Doador do LARBEM  | Conferir balanços de gastos e doar pelo site          | Acompanhar as ações realizadas e o uso do dinheiro das doações              |
+|Doador  | Conferir balanços de gastos e doar pelo site          | Acompanhar as ações realizadas e o uso do dinheiro das doações              |
 |Administradora do Site do Larbem      | Publicar notícias, balanços de atividades e gastos e vagas de voluntiariado no site do LARBEM                 | Manter os doadores e voluntários informados e conseguir novos apoiadores para o Larbem |
 |Interessada em ser voluntária | Encontrar informações sobre como se inscrever para voluntariado no LARBEM |Tornar-se voluntária para ajudar a instituição com suas habilidades |
 
