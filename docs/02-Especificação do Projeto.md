@@ -26,14 +26,13 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-003| Atualizar quadro de vagas de voluntariado no LARBEM   | MÉDIA |
-|RF-004| Atualizar dados em quadro ilustrativo de gastos do LARBEM   | BAIXA |
-|RF-005| Publicar documentos digitalizados com prestação de contas do LARBEM   | ALTA |
-|RF-006| Incorporar (embedar) publicações das redes sociais do LARBEM na home do site  | BAIXA |
-|RF-007| Permitir o acesso direto à missão, ao histórico e a outras páginas por meio de menu, seções ou botões  | ALTA |
-|RF-008| Permitir que o usuário se cadastre como voluntário | MÉDIA |
-|RF-008| Consultar as necessidades do LARBEM no quesito voluntariado | ALTA |
-|RF-009| Consultar quem são os atuais voluntários | BAIXA |
+|RF-001| Permitir o acesso direto à missão, ao histórico e a outras páginas por meio de menu, seções ou botões  | ALTA |
+|RF-002| Consultar as necessidades do LARBEM no quesito voluntariado | ALTA |
+|RF-003| Exibir dados em quadro ilustrativo de gastos do LARBEM | ALTA |
+|RF-004| Exibir dados bancários que permitam a doação ao LARBEM | ALTA |
+|RF-005| Permitir que o usuário se cadastre como voluntário | MÉDIA |
+|RF-006| Incorporar publicações das redes sociais do LARBEM na home do site  | BAIXA |
+|RF-007| Apresentar os atuais voluntários | BAIXA |
 
 ### Requisitos não Funcionais
 
