@@ -27,7 +27,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Permitir o acesso direto à missão, ao histórico e a outras páginas por meio de menu, seções ou botões  | ALTA |
-|RF-002| Consultar as necessidades do LARBEM no quesito voluntariado | ALTA |
+|RF-002| Exibir as necessidades do LARBEM no quesito voluntariado | ALTA |
 |RF-003| Exibir dados em quadro ilustrativo de gastos do LARBEM | ALTA |
 |RF-004| Exibir dados bancários que permitam a doação ao LARBEM | ALTA |
 |RF-005| Permitir que o usuário se cadastre como voluntário | MÉDIA |
