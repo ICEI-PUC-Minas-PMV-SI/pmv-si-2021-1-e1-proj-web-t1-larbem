@@ -32,7 +32,7 @@ Objetivos Específicos do site do LARBEM:
 
 • Encorajar parcerias privadas; 
 
-• Divulgar informações atualizadas sobre o dia a dia do LARBEM, sobre a rede de proteção à infância e adolescência, sobre o ECA (Estatuto da Criança e do Adolescente) e sobre o tema da adoção; 
+• Divulgar informações atualizadas sobre o dia a dia do LARBEM, rede de proteção à infância e adolescência, o ECA (Estatuto da Criança e do Adolescente) e temas de adoção;
 
 • Ampliar o corpo de voluntários através de inscrições feitas pelo site; 
 
