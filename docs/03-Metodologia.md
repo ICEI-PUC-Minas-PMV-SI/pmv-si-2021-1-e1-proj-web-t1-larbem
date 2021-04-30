@@ -5,9 +5,6 @@
 
 Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
 
-Neste projeto, busca-se desenvolver um site, ou melhor, um “cartão de visitas” online para o LARBEM. Lançando mão do VSCode, nós faremos uso de tecnologias como HTML5, CSS e JavaScript. Optou-se, neste projeto, dividir as branchs entre Main e Dev. Com um espírito de equipe colaborativo, todos os integrantes serão estimulados a compartilhar dos mesmos conhecimentos e experiências e utilizaremos como ferramenta de gerenciamento de equipe o Kanban.
-
-
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o
@@ -63,9 +60,10 @@ Coloque  informações sobre detalhes da implementação do Scrum seguido pelo g
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de diagramação
+- VSCode (Editor de Código).
+- HTML5, CSS e JavaScript (Tecnologias).
+- WhatsApp e Teams (Ferramentas de comunicação).
+- Figma (Ferramenta de diagramação).
 
 O editor de código foi escolhido porque ele possui uma integração com o
 sistema de versão. As ferramentas de comunicação utilizadas possuem
