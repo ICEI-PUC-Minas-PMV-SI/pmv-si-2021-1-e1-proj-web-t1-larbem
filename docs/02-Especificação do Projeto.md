@@ -42,26 +42,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-001| Site otimizado para celular (Mobile-First) | ALTA|
 |RNF-002| Cores trabalhadas devem atender a identidade visual do LARBEM de acordo com a logomarca da instituição | ALTA |
 |RNF-003| Site deve ser desenvolvido com estrutura que facilite a manutenção | ALTA |
-|RNF-004| Utilização de html5 para desenvolvimento do mesmo | ALTA |
+|RNF-004| Apresentar um rodapé de página com a síntese dos links rápidos do site, as redes sociais e o endereço em conjunto com o CNPJ da instituição | ALTA |
 |RNF-005| Nas páginas em que houver o predomínio de informações, na forma de textos curtos ou longos, deve-se diagramar por um sistema duplo de cores (Título - Rosa e Corpo do Texto - Preto) e utilizar uma fonte de fácil leitura (Roboto - Tamanho 14 ou 16) | MÉDIA |
 |RNF-006| A navegação do site deve ser otimizada para reduzir a necessidade de cliques e facilitar o acesso para quem não tem muita intimidade com sites da internet | MÉDIA |
-|RNF-007| Apresentar um rodapé de página com a síntese dos links rápidos do site, as redes sociais e o endereço em conjunto com o CNPJ da instituição | ALTA |
-|RNF-008| Seções ou botões devem se destacar com o movimento do cursor (hover) | BAIXA |
-
-Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
-
-- [Requisitos Funcionais
- (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
- correspondem a uma funcionalidade que deve estar presente na
-  plataforma (ex: cadastro de usuário).
-- [Requisitos Não Funcionais
-  (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
-  correspondem a uma característica técnica, seja de usabilidade,
-  desempenho, confiabilidade, segurança ou outro (ex: suporte a
-  dispositivos iOS e Android).
-Lembre-se que cada requisito deve corresponder à uma e somente uma
-característica alvo da sua solução. Além disso, certifique-se de que
-todos os aspectos capturados nas Histórias de Usuário foram cobertos.
+|RNF-007| Seções ou botões devem se destacar com o movimento do cursor (hover) | BAIXA |
 
 ## Restrições
 
