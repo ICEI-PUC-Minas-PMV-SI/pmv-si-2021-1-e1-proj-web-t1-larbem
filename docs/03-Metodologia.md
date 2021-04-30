@@ -41,7 +41,7 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 - Product Owner: por ter mais conhecimento sobre o LARBEM e ter contato direto com a fundação, esse papel foi atribuído a Rafaela dos Santos.
 - Scrum Master: papel atribuído ao Vinícius Soares.
-- Dev Team: este papel será responsabilidade de toda equipe, pois no scrum a construção do projeto e as decisões de como ele será feito são feitas pela equipe de desenvolvimento. 
+- Dev Team: este papel será responsabilidade de toda equipe, pois no Scrum a construção do projeto e as decisões de como ele será feito são feitas pela equipe de desenvolvimento. 
 
 
 Apresente a divisão de papéis entre os membros do grupo.
