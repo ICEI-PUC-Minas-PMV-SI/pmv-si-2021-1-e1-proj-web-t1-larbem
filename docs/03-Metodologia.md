@@ -53,6 +53,8 @@ Apresente a divisão de papéis entre os membros do grupo.
 
 ### Processo
 
+A implementação do projeto está sendo realizada através do Kanban, onde o Scrum Master e o Product Owner determinam os backlogs e a equipe de desenvolvimento decide entre si quem será o responsável pela execução dessas tarefas, registrando tudo o que está sendo feito e tudo que já foi realizado. 
+
 Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
  
 > **Links Úteis**:
