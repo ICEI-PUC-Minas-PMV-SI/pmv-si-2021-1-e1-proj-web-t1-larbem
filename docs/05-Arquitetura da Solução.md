@@ -2,7 +2,16 @@
 
 <span style="color:red">Pré-requisitos: <a href="04-Projeto de Interface.md"> Projeto de Interface</a></span>
 
-Definição de como o software é estruturado em termos dos componentes que fazem parte da solução e do ambiente de hospedagem da aplicação.
+A arquitetura da solução proposta para o site do Larbem conta com o servidor Web Heroku para atender às requisições do navegador utilizado pelo usuário e apresentar as páginas programadas nas linguaguens HTML5, CCS e JavaScript, além de arquivos de imagens. A página contará também com posts incorportados de redes sociais e vídeos incorporados do YouTube. O site disponibizará informações sobre a instituição e as formas de ajudá-la, além de formas de contato por telefone, endereço e-mail e redes sociais do LARBEM. 
+
+O usuário acessará a home do LARBEM por meio da URL (*ainda a definir*). Através da página principal, terá acesso a outras cinco páginas apresentadas em um menu superior e em botões distribuídos ao longo da página. Cada uma dessas páginas também poderá ser acessada diretamente informando o caminho após o host na URL. 
+
+**- Home do Larbem**: apresentará com destaque a missão da instituição, o trabalho realizado, sua equipe e suas redes sociais, além de informações básicas como endereço e contatos no pé da página. Terá links para todas as outras páginas por meio de um menu e botões.
+  - **Doe**: Terá as informações de contas bancárias e chave pix do LARBEM, além de materiais que a instituição utiliza de forma recorrente e podem ser doados;
+  - **Nossa História**: Contará a história do Larbem; 
+  - **Voluntariado**: Apresentará as possibilidades de atuação como voluntário do Larbem bem como o compromisso necessário para tal, além de histórias de atuais voluntários;
+  - **Contato**: exibirá telefones, e-mail, endereço e redes sociais do LARBEM de forma destacada;
+  - **Transparência**: exibirá balanços de gastos do Larbem, certificações, documentações e expediente completo da instituição. 
 
 ## Diagrama de componentes
 
@@ -18,11 +27,6 @@ Os componentes que fazem parte da solução são apresentados na Figura XX.
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
   - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
-   - **Local Storage** - armazenamento mantido no Navegador, onde são implementados bancos de dados baseados em JSON. São eles: 
-     - **Canais** - seções de notícias apresentadas 
-     - **Comentários** - registro de opiniões dos usuários sobre as notícias
-     - **Preferidas** - lista de notícias mantidas para leitura e acesso posterior
- - **News API** - plataforma que permite o acesso às notícias exibidas no site.
  - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
 
 > **Links Úteis**:
