@@ -15,49 +15,31 @@ O usuário acessará a home do LARBEM por meio da URL (*ainda a definir*). Atrav
 
 ## Diagrama de componentes
 
-Diagrama que permite a modelagem física de um sistema, através da visão dos seus componentes e relacionamentos entre os mesmos.
-
-Exemplo: 
-
-Os componentes que fazem parte da solução são apresentados na Figura XX.
+Os componentes que fazem parte da solução são apresentados na Figura 01.
 
 ![Diagrama de Componentes](img/componentesLarbem.png)
-<center>Figura XX - Arquitetura da Solução</center>
+<center>Figura 01 - Arquitetura da Solução</center>
 
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
   - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
  - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
 
-> **Links Úteis**:
->
-> - [Whimsical](https://whimsical.com/)
+O site do LARBEM não terá formas de login ou cadastro para os usuários e apresentará de forma acessível e direta as informações básicas para conhecer e ajudar as instituição, como um cartão de visitas. Devido a isso, não serão necessários bancos de dados, já que também não haverá espaços de comentários ou atualização de notícias. 
 
-Inclua um diagrama da solução e descreva os módulos e as tecnologias que fazem parte da solução. Discorra sobre o diagrama.
+Por meio de um Navegador, os usuários **Interessado em conhecer o LARBEM**, **Doador** e **Voluntário** acessarão a página principal da instituição (Tela 1) informando a URL que requisitará ao servidor web Heroku os arquivos HTML, CSS, JavaScript e .jpg que compõem a home do site. Em destaque, eles terão acesso à missão do LARBEM e a um resumo do trabalho realizado pela instituição. 
 
-A imagem a seguir ilustra a o fluxo do usuário em nossa solução. Assim
-que o usuário entra na plataforma, ele é apresentado à tela inicial
-(Tela 1) onde ele é confrontado com as opões de editar seu perfil ou
-então visualizar sua galeria.
+Para o percurso do usuário **Interessado em Conhecer o LARBEM**, também estará em destaque o botão para a página *Doe* (Tela 2), para que conheça as formas de doar caso já esteja convencido de que a missão e os valores da instituição estão em consonância com os seus.
 
-Caso ele opte por seguir pelo primeiro caminho (Editar Perfil), ele é
-redirecionado para a tela de edição de perfil (Tela 2), onde pode
-atualizar seus dados cadastrais. Nessa tela, o usuário também pode
-escolher para editar sua foto de perfil. Ao selecionar essa opção, ele é
-redirecionado para a Tela 3, onde ele a imagem expandida do perfil do
-usuário é mostrado. Ao selecionar a opção para atualizar a imagem, uma
-nova janela abre pedindo para o usuário fazer o upload da nova foto.
-Assim que o processo termina um pop-up exibe o status para o usuário
-(Tela 4) e o usuário é redirecionado para a Tela 2.
+A página principal também disponibilizará o botão de acesso à página *Nossa História* (Tela 3), para que o usuário **Interessado em conhecer o LARBEM** prossiga em sua busca por avaliar se a instituição tem credibilidade para receber sua doação. Além de contar as décadas da instituição, essa página apresentará a direção do LARBEM em um vídeo de convite a ajudar no trabalho realizado. A página também exibirá um botão para acesso à página *Doe* (Tela 2), como chamado à ação de doação.
 
-Caso o usuário opte seguir pelo segundo caminho (Visualizar Galeria) ele
-é redirecionado para a Tela 5 com todas as fotos que o usuário possui. O
-usuário pode clicar em um post qualquer para visualizar os detalhes do
-post (Tela 6). Nessa tela, ele pode então escolher editar o post, sendo
-redirecionado para a Tela 7. Ao editar as informações, o usuário pode
-escolher salvar ou deletar o post. Em ambos os casos o status é
-notificado para o usuário (Tela 8) e em seguida ele é redirecionado
-para a Tela 2.
+Caso persista sua dúvida, o usuário **Interessado em doar** poderá clicar também na página *Transparência* (Tela 4), onde saberá certificações e gastos do LARBEM por meio de balanços digitalizados. Essa página, como todas as outras, também terá um chamado para a página *Doe* (Tela 2), para que concretize sua doação. 
+
+O usuário **Doador**, que já conhece o LARBEM, acessará a página principal (Tela 1) e, a partir dela, a página *Transparência* (Tela 4), para se informar sobre as ações que o LARBEM tem realizado com os recursos das doações. Nesta página, além dos documentos que mostram como o LARBEM tem utilizado seus recursos, ele encontrará um novo chamado para a página *Doe* (Tela 2), onde poderá conferir novamente as informações bancárias e necessidades de materiais para realizar uma nova doação.
+
+Por fim, o usuário **Voluntário**, acessará a página principal do LARBEM (Tela 1) para conhecer a missão da instituição e, a partir dela, buscará a página *Voluntariado* (Tela 5), onde vai entender quais são as necessidades de trabalho voluntário do lar de acolhimento. 
+
+Em caso de dúvidas sobre as informações apresentadas, todos os usuários terão acesso às informações de contato do LARBEM no pé da página de todas as telas. Além disso, poderão acessar essas informações de forma destacada na página *Contato* (Tela 6). 
 
 ![Exemplo de UserFlow](img/userflow.jpg)
 
