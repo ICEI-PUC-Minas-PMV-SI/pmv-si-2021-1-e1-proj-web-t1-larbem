@@ -35,9 +35,9 @@ A página principal também disponibilizará o botão de acesso à página *Noss
 
 Caso persista sua dúvida, o usuário **Interessado em doar** poderá clicar também na página *Transparência* (Tela 4), onde saberá certificações e gastos do LARBEM por meio de balanços digitalizados. Essa página, como todas as outras, também terá um chamado para a página *Doe* (Tela 2), para que concretize sua doação. 
 
-O usuário **Doador**, que já conhece o LARBEM, acessará a página principal (Tela 1) e, a partir dela, a página *Transparência* (Tela 4), para se informar sobre as ações que o LARBEM tem realizado com os recursos das doações. Nesta página, além dos documentos que mostram como o LARBEM tem utilizado seus recursos, ele encontrará um novo chamado para a página *Doe* (Tela 2), onde poderá conferir novamente as informações bancárias e necessidades de materiais para realizar uma nova doação.
+O usuário **Doador**, que já conhece o LARBEM, acessará a página principal (Tela 1) e, a partir dela, a página *Transparência* (Tela 4), para se informar sobre as ações que o LARBEM tem realizado com os recursos das doações. Nesta página, além dos documentos que mostram como o LARBEM tem utilizado seus recursos, ele encontrará um novo chamado para a página *Doe* (Tela 2), na qual poderá conferir novamente as informações bancárias e necessidades de materiais para realizar uma nova doação.
 
-Por fim, o usuário **Voluntário**, acessará a página principal do LARBEM (Tela 1) para conhecer a missão da instituição e, a partir dela, buscará a página *Voluntariado* (Tela 5), onde vai entender quais são as necessidades de trabalho voluntário do lar de acolhimento. 
+Por fim, o usuário **Voluntário** acessará a página principal do LARBEM (Tela 1) para conhecer a missão da instituição e, a partir dela, buscará a página *Voluntariado* (Tela 5), com a qual vai entender quais são as necessidades de trabalho voluntário do lar de acolhimento. 
 
 Em caso de dúvidas sobre as informações apresentadas, todos os usuários terão acesso às informações de contato do LARBEM no pé da página de todas as telas. Além disso, poderão acessar essas informações de forma destacada na página *Contato* (Tela 6). 
 
