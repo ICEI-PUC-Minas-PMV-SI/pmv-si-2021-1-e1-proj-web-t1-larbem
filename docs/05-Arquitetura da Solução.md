@@ -33,8 +33,6 @@ Para o percurso do usuário **Interessado em Conhecer o LARBEM**, também estar�
 
 A página principal também disponibilizará o botão de acesso à página *Nossa História* (Tela 3), para que o usuário **Interessado em conhecer o LARBEM** prossiga em sua busca por avaliar se a instituição tem credibilidade para receber sua doação. Além de contar as décadas da instituição, essa página apresentará a direção do LARBEM em um vídeo de convite a ajudar no trabalho realizado. A página também exibirá um botão para acesso à página *Doe* (Tela 2), como chamado à ação de doação.
 
-Caso persista sua dúvida, o usuário **Interessado em doar** poderá clicar também na página *Transparência* (Tela 4), onde saberá certificações e gastos do LARBEM por meio de balanços digitalizados. Essa página, como todas as outras, também terá um chamado para a página *Doe* (Tela 2), para que concretize sua doação. 
-
 O usuário **Doador**, que já conhece o LARBEM, acessará a página principal (Tela 1) e, a partir dela, a página *Transparência* (Tela 4), para se informar sobre as ações que o LARBEM tem realizado com os recursos das doações. Nesta página, além dos documentos que mostram como o LARBEM tem utilizado seus recursos, ele encontrará um novo chamado para a página *Doe* (Tela 2), na qual poderá conferir novamente as informações bancárias e necessidades de materiais para realizar uma nova doação.
 
 Por fim, o usuário **Voluntário** acessará a página principal do LARBEM (Tela 1) para conhecer a missão da instituição e, a partir dela, buscará a página *Voluntariado* (Tela 5), com a qual vai entender quais são as necessidades de trabalho voluntário do lar de acolhimento. 
