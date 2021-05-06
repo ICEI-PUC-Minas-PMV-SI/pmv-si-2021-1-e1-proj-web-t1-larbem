@@ -17,10 +17,7 @@ O usuário acessará a home do LARBEM por meio da URL (*ainda a definir*). Atrav
 
 Os componentes que fazem parte da solução são apresentados na Figura 01.
 
-![Diagrama de Componentes](img/componentesLarbem.png)
-<center>Figura 01 - Arquitetura da Solução</center>
-
-![Diagrama de Componentes](img/componentesLarbem.png)
+![Diagrama de Componentes](img/componentesLarbem2.png)
 <center>Figura 01 - Arquitetura da Solução</center>
 
 A solução implementada conta com os seguintes módulos:
