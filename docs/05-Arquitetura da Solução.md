@@ -53,7 +53,7 @@ Apresente também uma figura explicando como as tecnologias estão relacionadas 
 
 Explique como a hospedagem e o lançamento da plataforma foi feita.
 
-Utilizaremos o Replit para hospedagem, já que essa plataforma possui ferramentas automatizadas para dar deploy no futuro site do LARBEM.
+Utilizaremos o Replit para hospedagem, já que essa plataforma oferece ferramentas automatizadas para dar deploy no futuro site do LARBEM. 
 
 > **Links Úteis**:
 >
