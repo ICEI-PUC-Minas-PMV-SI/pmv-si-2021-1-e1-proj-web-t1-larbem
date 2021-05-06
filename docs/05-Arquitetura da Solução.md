@@ -20,6 +20,9 @@ Os componentes que fazem parte da solução são apresentados na Figura 01.
 ![Diagrama de Componentes](img/componentesLarbem.png)
 <center>Figura 01 - Arquitetura da Solução</center>
 
+![Diagrama de Componentes](img/componentesLarbem.png)
+<center>Figura 01 - Arquitetura da Solução</center>
+
 A solução implementada conta com os seguintes módulos:
 - **Navegador** - Interface básica do sistema  
   - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
