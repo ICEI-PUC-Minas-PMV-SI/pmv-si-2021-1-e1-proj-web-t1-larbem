@@ -25,6 +25,8 @@ A solução implementada conta com os seguintes módulos:
   - **Páginas Web** - Conjunto de arquivos HTML, CSS, JavaScript e imagens que implementam as funcionalidades do sistema.
  - **Hospedagem** - local na Internet onde as páginas são mantidas e acessadas pelo navegador. 
 
+O site do LARBEM não terá formas de login ou cadastro para os usuários e apresentará de forma acessível e direta as informações básicas para conhecer e ajudar as instituição, como um cartão de visitas. Devido a isso, não serão necessários bancos de dados, já que também não haverá espaços de comentários ou atualização de notícias.
+
 ## Tecnologias Utilizadas
 
 
