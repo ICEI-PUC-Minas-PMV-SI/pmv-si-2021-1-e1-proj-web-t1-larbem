@@ -3,15 +3,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="02-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Visão geral da interação do usuário pelas telas do sistema e protótipo interativo das telas com as funcionalidades que fazem parte do sistema (wireframes).
-
- Apresente as principais interfaces da plataforma. Discuta como ela foi elaborada de forma a atender os requisitos funcionais, não funcionais e histórias de usuário abordados nas <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a>.
-
-## User Flow
-
-O site do LARBEM não terá formas de login ou cadastro para os usuários e apresentará de forma acessível e direta as informações básicas para conhecer e ajudar as instituição, como um cartão de visitas. Devido a isso, não serão necessários bancos de dados, já que também não haverá espaços de comentários ou atualização de notícias.
-
-Por meio de um Navegador, os usuários **Interessado em conhecer o LARBEM**, **Doador** e **Voluntário** acessarão a página principal da instituição (Tela 1) informando a URL que requisitará ao servidor web Heroku os arquivos HTML, CSS, JavaScript e .jpg que compõem a home do site. Em destaque, eles terão acesso à missão do LARBEM e a um resumo do trabalho realizado pela instituição.
+Por meio de um Navegador, os usuários **Interessado em conhecer o LARBEM**, **Doador** e **Voluntário** acessarão a página principal da instituição (Tela 1) informando a URL que requisitará ao servidor web Repl.It os arquivos HTML, CSS, JavaScript e .jpg que compõem a home do site. Em destaque, eles terão acesso à missão do LARBEM e a um resumo do trabalho realizado pela instituição.
 
 Para o percurso do usuário **Interessado em Conhecer o LARBEM**, também estará em destaque o botão para a página Doe (Tela 2), para que conheça as formas de doar caso já esteja convencido de que a missão e os valores da instituição estão em consonância com os seus.
 
@@ -22,6 +14,8 @@ O usuário **Doador**, que já conhece o LARBEM, acessará a página principal (
 Por fim, o usuário **Voluntário** acessará a página principal do LARBEM (Tela 1) para conhecer a missão da instituição e, a partir dela, buscará a página Voluntariado (Tela 5), com a qual vai entender quais são as necessidades de trabalho voluntário do lar de acolhimento.
 
 Em caso de dúvidas sobre as informações apresentadas, todos os usuários terão acesso às informações de contato do LARBEM no pé da página de todas as telas. Além disso, poderão acessar essas informações de forma destacada na página Contato (Tela 6).
+
+## User Flow
 
 ## User Flow do Interessado em voluntariar
 ![UserFlow - Interessado em voluntariar](img/UserFlowVoluntario.png)
@@ -39,8 +33,6 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 
 
 ## Wireframes
-
-
 
 ## Wireframe - Página HOME
 ![Wireframe - HOME LARBEM](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-1-e1-proj-web-t1-larbem/blob/d16c1e6d267cefa00cb1f3113c114e5e065b6846/docs/img/Wireframe%20-%20HOME%20LARBEM.png)
