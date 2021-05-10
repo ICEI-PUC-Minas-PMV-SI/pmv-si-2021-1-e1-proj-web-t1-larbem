@@ -17,7 +17,7 @@ Em caso de dúvidas sobre as informações apresentadas, todos os usuários ter�
 
 ## User Flow
 
-![UserFlow - LARBEM](img/Userflow LARBEM v.1.jpg)
+![UserFlow - LARBEM](img/UserflowLARBEMv.1.jpg)
 
 
 Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapear todo fluxo de telas do site ou app. Essa técnica funciona para alinhar os caminhos e as possíveis ações que o usuário pode fazer junto com os membros de sua equipe.
