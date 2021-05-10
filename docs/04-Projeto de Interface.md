@@ -35,7 +35,7 @@ Fluxo de usuário (User Flow) é uma técnica que permite ao desenvolvedor mapea
 ![Wireframe - Nossa História](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-1-e1-proj-web-t1-larbem/blob/main/docs/img/Wireframe%20-%20Nossa%20Hist%C3%B3ria.png)
 
 ## Wireframe - Página DOE
-![Wireframe Larbem - página doe](![doeLarbem](https://user-images.githubusercontent.com/64612527/117594517-9c9e1480-b114-11eb-80d5-ad88c3fc99db.png))
+![Wireframe Larbem - página doe](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2021-1-e1-proj-web-t1-larbem/blob/main/docs/img/doeLarbem.png)
 
 ## Wireframe - Página VOLUNTARIADO
 ![Wireframe Larbem - página voluntariado](img/WireframeVoluntariado2.jpg)
