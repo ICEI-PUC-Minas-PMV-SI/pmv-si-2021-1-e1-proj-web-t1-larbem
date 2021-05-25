@@ -1,0 +1,175 @@
+*{
+	margin:0;
+	padding: 0;
+}
+
+body {
+  font-family: 'roboto';
+}
+
+/* Estilo do menu superior */ 
+
+.navigation-bar {
+	font-family: sans-serif;
+	font-weight: bold;
+    width: 100%;				/*i'm assuming full width */
+    height: 25%; /*nge it to desired width */
+    background-color: white; /* change to desired color */
+}
+.logo {
+    display: inline-block;
+    vertical-align: top;
+    width: 15%;
+    height: 10%;
+    margin-right: 10%
+    margin-top: 5%;/* if you want it vertically middle of the navbar. */
+}
+.navigation-bar > a {
+	text-decoration: none;
+	color: black;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 3%;
+    margin-left: 2%;
+    /*height: 80px;        /* if you want it to take the full height of the bar */
+    line-height: 10em;/* if you want it vertically middle of the navbar */
+}
+
+a:hover{
+	color: pink;
+}
+
+
+/* Estilo da Header */
+
+.titulo-principal{
+	padding-top: 20px;
+	padding-bottom: 35%;
+	background-image: url(imagens/crianca.jpg);
+	background-size: cover;
+}
+
+#titulo-header {
+  background-color: whitesmoke;
+  opacity: 0.8;
+}
+
+.resumo{
+	color: white;
+	font-family: 'Roboto', sans-serif;
+	font-size: 1.5em;
+	padding-top: 10px;
+	padding-bottom: 15px;
+	text-align: center;
+}
+
+/* Estilo da Main do site */ 
+
+/* Estilo Articles */
+
+section {
+	padding: 2%;
+	background-color: lightgray;
+}
+
+.video{
+	background-image: url(imagens/blured.jpg);
+	background-size: cover;
+}
+
+video{
+	margin-top: 2%;
+	margin-left: 7%;
+}
+
+.titulo-article {
+  text-align: left;
+  margin: 0% 20%;
+}
+.texto-descritivo{
+	text-align: justify;
+	font-family: "Roboto",  sans-serif;
+	font-size: 18px;
+	font-weight: normal;
+	margin: 0% 20%;
+	margin-bottom: 20px;
+}
+
+/* Estilos Aside */
+
+#quadro-equipe {
+ display: grid;
+ grid-template-columns: 25% 25% 25% 25%;
+ grid-template-rows: 33% 33% 33%;
+ grid-template-areas: "equipe equipe equipe equipe"
+					  "equipe equipe equipe equipe"
+					  "equipe equipe equipe equipe";
+ margin: 0px 10%; 
+}
+
+.conheca{
+	padding-top: 25px;
+}
+.subtitulo-equipe{
+	text-align: center;
+	font-size: 20px;
+	padding-bottom: 20px;
+}
+
+.conteudo{
+  padding: 2%;
+  float: left;
+  width: 75%;
+}
+
+.ecles{
+	font-family: "Courier New", monospace;
+	text-align: center;
+}
+
+.fotinha{
+	margin: 15%;
+ 	width: 100%;
+
+}
+
+/* Estilos gerais de parágrafo e título */
+
+p{
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	padding-top: 10px;
+	padding-bottom: 15px;
+	text-align: center;
+}
+
+h1{
+	color: #e6005c;
+	text-align: center;
+	font-size: 4em;
+}
+
+h2{
+	font-family: "Arial",  sans-serif;
+	font-size: 25px;
+	font-weight: bold;
+	left: 10px;
+}
+
+h3{
+	font-family:"Courier New" , monospace;
+	text-align: center;
+}
+
+/* Estilo footer */ 
+
+footer{
+	background-color: black;
+   	color: #FFF;
+    width: 100%;
+    height: 25%;
+    text-align: center;
+    line-height: 100px;
+}
+
+/* Responsividade */ 
