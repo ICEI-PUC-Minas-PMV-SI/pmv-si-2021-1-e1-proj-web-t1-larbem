@@ -21,8 +21,6 @@ body {
     vertical-align: top;
     width: 15%;
     height: 10%;
-    margin-right: 10%
-    margin-top: 5%;/* if you want it vertically middle of the navbar. */
 }
 .navigation-bar > a {
 	text-decoration: none;
@@ -87,6 +85,8 @@ video{
 .titulo-article {
   text-align: left;
   margin: 10px 20%;
+  font-size: 24px;
+  font-weight: bolder;
 }
 .texto-descritivo{
 	text-align: justify;
@@ -136,7 +136,7 @@ p{
 }
 
 h1{
-	color: #e6005c;
+	color:#F179A9;
 	text-align: center;
 	font-size: 4em;
 }
