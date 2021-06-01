@@ -86,17 +86,12 @@ video{
 
 .titulo-article {
   text-align: left;
-<<<<<<< HEAD
-<<<<<<< HEAD
 }
 .texto-descritivo{
 	text-align: left;
 	font-family: "Roboto",  sans-serif;
 	font-size: 18px;
 	font-weight: normal;
-=======
-=======
->>>>>>> origin/main
   margin: 0% 20%;
 }
 .texto-descritivo{
@@ -106,19 +101,10 @@ video{
 	font-weight: normal;
 	margin: 0% 20%;
 	margin-bottom: 20px;
-<<<<<<< HEAD
->>>>>>> origin/main
-=======
->>>>>>> origin/main
 }
 
 /* Estilos Aside */
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> origin/main
 #quadro-equipe {
  display: grid;
  grid-template-columns: 25% 25% 25% 25%;
@@ -129,10 +115,6 @@ video{
  margin: 0px 10%; 
 }
 
-<<<<<<< HEAD
->>>>>>> origin/main
-=======
->>>>>>> origin/main
 .conheca{
 	padding-top: 25px;
 }
@@ -145,15 +127,7 @@ video{
 .conteudo{
   padding: 2%;
   float: left;
-<<<<<<< HEAD
-<<<<<<< HEAD
-  width: 25%;
-=======
   width: 75%;
->>>>>>> origin/main
-=======
-  width: 75%;
->>>>>>> origin/main
 }
 
 .ecles{
@@ -187,13 +161,7 @@ h2{
 	font-family: "Arial",  sans-serif;
 	font-size: 25px;
 	font-weight: bold;
-<<<<<<< HEAD
-<<<<<<< HEAD
 	position: absolute;
-=======
->>>>>>> origin/main
-=======
->>>>>>> origin/main
 	left: 10px;
 }
 
