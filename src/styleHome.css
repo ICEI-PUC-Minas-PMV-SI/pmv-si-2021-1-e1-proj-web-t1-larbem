@@ -55,12 +55,15 @@ a:hover{
 }
 
 .resumo{
-	color: white;
+	color:  #7F68AE;
 	font-family: 'Roboto', sans-serif;
+	background-color: whitesmoke;
+    opacity: 0.8;
 	font-size: 1.5em;
 	padding-top: 10px;
 	padding-bottom: 15px;
 	text-align: center;
+	font-weight: bold;
 }
 
 /* Estilo da Main do site */ 
@@ -78,34 +81,23 @@ section {
 }
 
 video{
-	margin-top: 2%;
-	margin-left: 7%;
+	margin: 2% 0% auto;
 }
 
 .titulo-article {
   text-align: left;
-  margin: 0% 20%;
+  margin: 10px 20%;
 }
 .texto-descritivo{
 	text-align: justify;
 	font-family: "Roboto",  sans-serif;
 	font-size: 18px;
 	font-weight: normal;
-	margin: 0% 20%;
+	margin: 10px 20%;
 	margin-bottom: 20px;
 }
 
 /* Estilos Aside */
-
-#quadro-equipe {
- display: grid;
- grid-template-columns: 25% 25% 25% 25%;
- grid-template-rows: 33% 33% 33%;
- grid-template-areas: "equipe equipe equipe equipe"
-					  "equipe equipe equipe equipe"
-					  "equipe equipe equipe equipe";
- margin: 0px 10%; 
-}
 
 .conheca{
 	padding-top: 25px;
@@ -169,7 +161,102 @@ footer{
     width: 100%;
     height: 25%;
     text-align: center;
-    line-height: 100px;
+    line-height: 30px;
+}
+
+footer p {
+	margin: 0% 10%;
 }
 
 /* Responsividade */ 
+
+@media (min-device-width: 600px) { 
+#quadro-equipe {
+	display: grid;
+	grid-template-columns: 25% 25% 25% 25%;
+	grid-template-rows: 33% 33% 33%;
+	grid-template-areas: "equipe equipe equipe equipe"
+						 "equipe equipe equipe equipe"
+						 "equipe equipe equipe equipe";
+	margin: 0px 10%; 
+   }
+}
+
+@media (max-device-width: 600px){
+	#quadro-equipe {
+		display: grid;
+		grid-template-columns: 50% 50%;
+		grid-template-areas: "equipe equipe"
+							 "equipe equipe"
+							 "equipe equipe"
+							 "equipe equipe"
+							 "equipe equipe"
+							 "equipe equipe";
+		margin: 0px 10%; 
+	   }	
+
+	   video{
+		margin-top: 20px;
+		margin-bottom: 20px;
+		margin-left: 0%;
+	}
+
+	footer{
+		background-color: black;
+		   color: #FFF;
+		width: 100%;
+		height: 25%;
+		text-align: center;
+		line-height: 50px;
+	}
+
+	.titulo-article {
+		text-align: left;
+		margin: 10% 10%;
+	  }
+	.texto-descritivo{
+		text-align: left;
+		font-family: "Roboto",  sans-serif;
+		font-size: 16px;
+		font-weight: normal;
+		margin: 10%;
+	}
+
+	.resumo{
+		color:  #7F68AE;
+		font-family: 'Roboto', sans-serif;
+		background-color: whitesmoke;
+		opacity: 0.8;
+		font-size: 1.3em;
+		padding-top: 10px;
+		padding-bottom: 15px;
+		text-align: center;
+		font-weight: bold;
+	}
+
+	.navigation-bar {
+		font-family: sans-serif;
+		font-weight: bold;
+		width: 100%;				/*i'm assuming full width */
+		height: 25%; /*nge it to desired width */
+		background-color: white; /* change to desired color */
+	}
+	.logo {
+		display: inline-block;
+		vertical-align: top;
+		width: 10%;
+		height: 10%;
+		margin-top: 5%;/* if you want it vertically middle of the navbar. */
+	}
+	.navigation-bar > a {
+		text-decoration: none;
+		color: black;
+		display: inline-block;
+		vertical-align: top;
+		margin-right: 1%;
+		margin-left: 1%;
+		/*height: 80px;        /* if you want it to take the full height of the bar */
+		line-height: 10em;/* if you want it vertically middle of the navbar */
+		font-size: 20px;
+	}
+}
