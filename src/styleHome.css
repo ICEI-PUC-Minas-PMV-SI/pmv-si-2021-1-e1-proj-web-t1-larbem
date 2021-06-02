@@ -16,6 +16,17 @@ body {
     height: 25%; /*nge it to desired width */
     background-color: white; /* change to desired color */
 }
+.sticky {
+	position: fixed;
+	background-color: #F1F1F1;
+	top: 0;
+	width: 100%;
+	z-index: 1;
+	transition: all 0.1s ease;
+}
+.sticky > img {
+	height: auto;
+}
 .logo {
     display: inline-block;
     vertical-align: top;
