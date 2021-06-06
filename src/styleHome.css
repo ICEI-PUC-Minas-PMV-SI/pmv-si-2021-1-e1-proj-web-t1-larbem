@@ -136,6 +136,10 @@ video{
  	width: 100%;
 
 }
+.mapas{
+	text-align: center;
+	wiidth: 100%
+}
 
 /* Estilos gerais de parágrafo e título */
 
@@ -271,4 +275,8 @@ footer p {
 		line-height: 10em;/* if you want it vertically middle of the navbar */
 		font-size: 20px;
 	}
+}
+.mapas{
+	text-align: center;
+	wiidth: 100%
 }
