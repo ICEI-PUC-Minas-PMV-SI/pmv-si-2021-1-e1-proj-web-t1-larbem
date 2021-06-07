@@ -3,10 +3,6 @@
 	padding: 0;
 }
 
-body {
-  font-family: 'roboto';
-}
-
 /* Estilo do menu superior */ 
 
 .navigation-bar {
@@ -82,7 +78,7 @@ a:hover{
 
 section {
 	padding: 2%;
-	background-color: lightgray;
+	background-color: #f5dff4;
 }
 
 .video{
@@ -152,7 +148,7 @@ p{
 }
 
 h1{
-	color:#F179A9;
+	color:#df3d7e;
 	text-align: center;
 	font-size: 4em;
 }
@@ -172,7 +168,7 @@ h3{
 /* Estilo footer */ 
 
 footer{
-	background-color: black;
+	background-color: #7F68AE;
    	color: #FFF;
     width: 100%;
     height: 25%;
