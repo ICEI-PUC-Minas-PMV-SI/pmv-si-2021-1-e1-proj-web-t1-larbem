@@ -4,7 +4,7 @@
 
 ## Cenários de Teste
 
-*CT.01 - Acesso às páginas home e nossa história*
+#CT.01 - Acesso às páginas home e nossa história
 
 Pré-condições:
 Computador com acesso a internet;
