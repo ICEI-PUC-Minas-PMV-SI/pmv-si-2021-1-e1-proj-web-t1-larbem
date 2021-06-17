@@ -9,9 +9,11 @@ CT.01 - Acesso às páginas home e nossa história
 Pré-condições:
 Computador com acesso a internet;
 Navegador com versão compatível com html5 (preferência por versão atualizada para a última disponível)
+
 Procedimentos:
 1. Acessar o site através do link;
 2. Clicar na página Nossa História no menu superior.
+
 Resultados esperados:
 1. Ao acessar o link do site a página home deve ser aberta, a página deve apresentar as principais informações da organização
 2. Ao clicar no botão Nossa história a tela deve carregar os dados sobre a história do LARBEM (apresentação em formato linha do tempo
