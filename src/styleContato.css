@@ -1,0 +1,41 @@
+.titulo-principal-contato {
+    padding-top: 20px;
+    padding-bottom: 35%;
+    background-image: url(imagens/capa-contato.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+}
+
+#titulo-header-contato {
+    background-color: whitesmoke;
+    opacity: 0.8;
+}
+
+
+article > p, i, h2{
+    text-align: left;
+    margin:0 20%;
+}
+
+h2 {
+    padding: 10px 0px;
+}
+
+article div{
+    margin:0 20%;
+}
+
+i {
+    color: #7F68AE;
+    font-size: xx-large;
+    padding: 10px 0px;
+}
+
+section {
+    background-color: #f5dff4;
+}
+
+h1 {
+    margin: 50px auto;
+}
