@@ -40,7 +40,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-001| Site otimizado para celular (Mobile-First) | ALTA|
 |RNF-002| Cores trabalhadas devem atender a identidade visual do LARBEM de acordo com a logomarca da instituição | ALTA |
 |RNF-003| Site deve ser desenvolvido com estrutura que facilite a manutenção | ALTA |
-|RNF-004| Apresentar um rodapé de página com a síntese dos links rápidos do site, as redes sociais e o endereço em conjunto com o CNPJ da instituição | ALTA |
+|RNF-004| Apresentar um rodapé de página com princípais informações do LARBEM:  endereço, CNPJ da instituição e telefone | ALTA |
 |RNF-005| Nas páginas em que houver o predomínio de informações, na forma de textos curtos ou longos, deve-se diagramar por um sistema duplo de cores (Título - Rosa e Corpo do Texto - Preto) e utilizar uma fonte de fácil leitura (Roboto - Tamanho 14 ou 16) | MÉDIA |
 |RNF-006| A navegação do site deve ser otimizada para reduzir a necessidade de cliques e facilitar o acesso para quem não tem muita intimidade com sites da internet | MÉDIA |
 |RNF-007| Seções ou botões devem se destacar com o movimento do cursor (hover) | BAIXA |
