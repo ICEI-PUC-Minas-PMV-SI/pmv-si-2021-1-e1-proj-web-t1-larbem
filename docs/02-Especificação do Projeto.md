@@ -31,7 +31,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002| Exibir as necessidades do LARBEM no quesito voluntariado | ALTA |
 |RF-003| Exibir dados em quadro ilustrativo de gastos do LARBEM | ALTA |
 |RF-004| Exibir dados bancários que permitam a doação ao LARBEM | ALTA |
-|RF-005| Permitir que o usuário se cadastre como voluntário | MÉDIA |
+|RF-005| Permitir que o usuário visualize as vagas disponíveis para voluntáriado | MÉDIA |
 |RF-006| Incorporar publicações das redes sociais do LARBEM na home do site  | BAIXA |
 |RF-007| Apresentar os atuais voluntários | BAIXA |
 
