@@ -187,8 +187,8 @@ footer p {
         float: inline-start;
         flex-direction: row;
         vertical-align: top;
-        width: 15%;
-        height: 15%;
+        width: 10%;
+        height: 10%;
     }
     .navigation-bar>ul>a {
         line-height: 18vh;
