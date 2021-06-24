@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+h8,h9,h10{
+    font-family: "Arial", sans-serif;
+    font-size: 25px;
+    font-weight: bold;
+    left: 10px;
+}
+
+ul{
+    list-style: none;
+    display: inline-flex; 
+    background-color: #f5dff4;
+    justify-content: space-around;
+    text-align: center;
+    padding: 20px;
+    margin: auto;
+    box-sizing: border-box;
+    
+}
+   
+li{
+    width: 33%;
+    
+}
+
+.img1{
+    height: 300px;
+    width: 500px;
+}
+.img2{
+    height: 300px;
+    width: 500px;
+}
