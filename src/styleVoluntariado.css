@@ -4,11 +4,25 @@
     box-sizing: border-box;
 }
 
+.titulo-principal-voluntariado {
+    padding-top: 75px;
+    padding-bottom: 75px;
+    background-image: url(imagens/voluntariado_header.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+  
+  #titulo-header-voluntariado {
+    background-color: whitesmoke;
+    opacity: 0.8;
+  }
+
 p{
     font-family: 'Roboto', sans-serif;
-    font-size: 20px;
+    font-size: 16px;
     padding-top: 10px;
     padding-bottom: 15px;
+    text-align: justify;
 }
 
 h8,h9,h10{
@@ -18,30 +32,74 @@ h8,h9,h10{
     left: 10px;
 }
 
-ul{
+#texto-voluntariado{
     list-style: none;
-    display: inline-flex; 
+    display: block; 
     background-color: #f5dff4;
     justify-content: space-around;
-    text-align: center;
+    text-align: justify;
     padding: 20px;
     margin: auto;
     box-sizing: border-box;
+    width: 100%
     
 }
    
-li{
-    width: 33%;
+article{
+    width: 50%;
+    margin: 0px auto;
+    display: block;
     
 }
 
+article p {
+    text-align: justify;
+}
+
+section > h2 {
+    text-align: center;
+}
+
+#acreditamos {
+    background-color: #7F68AE;
+    color: white;
+    padding: 30px;
+    text-align: justify;
+    width: 50%;
+    border-radius: 10px;
+    margin: auto;
+    opacity: 0.8;
+
+}
+
+.atuacao {
+    font-size: 24px;
+    font-weight: bolder;
+    color: white;
+    background-color: #7F68AE;
+    border-radius: 10px;
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+}
+
 .img1{
-    height: 300px;
-    width: 500px;
+    height: 400px;
+    width: 100%;
+    margin: 20px auto;
+
 }
 .img2{
-    height: 300px;
+    height: 100%;
     width: 500px;
+    background-color: #7F68AE;
+    padding: 30px;
+    text-align: justify;
+    width: 100%;
+    border-radius: 10px;
+    margin: auto;
+    opacity: 0.8;
 }
 .img3{
     height: 300px;
@@ -51,4 +109,20 @@ i {
     color: #7F68AE;
     font-size: xx-large;
     padding: 10px 0px;
+}
+
+#contato_voluntariado{
+    margin: 0px;
+}
+
+section > h2{
+    text-align: justify;
+    margin: 0px 25%;
+}
+
+#Entre {
+background-color: white;
+width:100%;
+border-radius: 10px;
+margin: auto;
 }
