@@ -1,24 +1,36 @@
+.titulo-principal {
+    padding-top: 20px;
+    padding-bottom: 35%;
+    background-image: url(imagens/transparencia_header.jpg);
+    background-size: cover;
+    height: 500px;
+    background-position: center;
+}
+
 body {
     margin: 0px;
     padding: 0px;
 }
-h1 {
-    border: solid 1px violet;
-    background-color: rgb(250, 202, 250);
-}
+
 h2 {
     margin-bottom: 20px;
     margin-left: 30px;
+    text-align: center;
 }
-div > a {
-    color: black;
-    margin: 40px;
-    border-radius: 10px;
-    border: solid 2px black;
-    padding: 10px;
-    font-size: 60px;
-    background-color: rgb(250, 202, 250);
 
+.anos {
+    text-align: center;
+}
+
+div > a {
+    color:white;
+    margin: 40px 20px;
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 40px;
+    background-color: #7F68AE;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
 }
 
 div hr {
@@ -36,3 +48,28 @@ div img {
     margin-left: 30px;
     border: solid 1px black;
 }
+
+.conteudo {
+    padding: 2%;
+    float: left;
+    width: 75%;
+    text-align: center;
+}
+
+.conteudo > p{
+    text-align: center;
+    margin-left: 20px;
+}
+
+.fotinha {
+    margin: 0% 15%;
+    width: 100%;
+}
+.conteudo > a{
+    margin: opx;
+    border-radius: 0px;
+    padding: 0px;
+    background-color: white;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}    
