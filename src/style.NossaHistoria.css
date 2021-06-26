@@ -3,6 +3,20 @@
 	padding: 0;
 }
 
+.titulo-principal-historia {
+  padding-top: 20px;
+  padding-bottom: 35%;
+  background-image: url(imagens/historia_header.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}
+
+#titulo-header-historia {
+  background-color: whitesmoke;
+  opacity: 0.8;
+}
+
 /* Media Queries */
 /* Card sizing */
 /* Colors */
