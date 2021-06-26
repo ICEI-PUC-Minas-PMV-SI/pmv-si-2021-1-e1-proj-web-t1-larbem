@@ -1,17 +1,15 @@
 .titulo-principal-contato {
-    padding-top: 20px;
-    padding-bottom: 35%;
+    padding-top: 75px;
+    padding-bottom: 75px;
     background-image: url(imagens/capa-contato.jpg);
     background-size: cover;
     background-position: center;
-    height: 500px;
 }
 
 #titulo-header-contato {
     background-color: whitesmoke;
     opacity: 0.8;
 }
-
 
 article > p, i, h2{
     text-align: left;

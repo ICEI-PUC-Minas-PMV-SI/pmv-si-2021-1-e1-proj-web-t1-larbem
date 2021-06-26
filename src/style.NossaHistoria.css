@@ -4,12 +4,11 @@
 }
 
 .titulo-principal-historia {
-  padding-top: 20px;
-  padding-bottom: 35%;
+  padding-top: 75px;
+  padding-bottom: 75px;
   background-image: url(imagens/historia_header.jpg);
   background-size: cover;
   background-position: center;
-  height: 500px;
 }
 
 #titulo-header-historia {
