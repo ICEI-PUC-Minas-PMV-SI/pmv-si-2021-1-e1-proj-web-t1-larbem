@@ -71,4 +71,17 @@ div img {
     background-color: white;
     text-decoration: none;
     font-family: 'Roboto', sans-serif;
-}    
+}
+@media (max-device-width: 600px) {
+    .anos {
+        display: grid;
+        grid-template-columns: 50% 50%;
+        grid-template-areas: "anos anos" "anos anos";
+    }
+    
+    .fotinha {
+        display: grid;
+        grid-template-columns: 50% 50%;
+        grid-template-areas: "fotinha fotinha" "fotinha fotinha";
+        margin: 0px 10%; 
+    }
