@@ -1,6 +1,36 @@
-h4 {
-    font-family: "Arial", sans-serif;
-    font-size: 25px;
-    font-weight: bold;
-    left: 10px;
+.atuacao {
+    font-size: 24px;
+    font-weight: bolder;
+    color: white;
+    background-color: #7F68AE;
+    border-radius: 10px;
+    width: 300px;
+    padding: 10px;
+    text-align: center;
+    margin: auto;
 }
+
+.descricao{
+    font-size: 30px;
+}
+
+.corpo{
+    background-color: #f5dff4;
+    padding: 10px;
+    border-radius: 10px;
+    margin: auto;
+    text-align: center;
+}
+
+.titulo-principal-voluntariado {
+    padding-top: 75px;
+    padding-bottom: 75px;
+    background-image: url(imagens/doe1.jpg);
+    background-size: cover;
+    background-position: center;
+  }
+
+  #titulo-header-voluntariado {
+    background-color: whitesmoke;
+    opacity: 0.8;
+  }
