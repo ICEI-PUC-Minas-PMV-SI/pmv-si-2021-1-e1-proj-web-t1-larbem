@@ -146,7 +146,7 @@ h4 {
     left: 10px;
 
 }
-    Estilo footer */
+   /* Estilo footer */
 
 footer {
     background-color: #7F68AE;
@@ -335,7 +335,7 @@ footer p {
     }
     .navigation-bar > ul > li > a {
         color: white;
-        font-size: 150%;
+        font-size: 400%;
         font-family: 'Roboto';
         text-decoration: none;
     }
