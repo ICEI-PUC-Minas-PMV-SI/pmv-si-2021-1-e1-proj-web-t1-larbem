@@ -85,3 +85,7 @@ div img {
         grid-template-areas: "fotinha fotinha" "fotinha fotinha";
         margin: 0px 10%; 
     }
+}
+div.anos>a:hover {
+    background-color: #df3d7e;
+}
