@@ -4,11 +4,11 @@
 
 ## Cenários de Teste
 
-CT.01 - Acesso às páginas home e nossa história
-
-Pré-condições:
+Pré-requisitos:
 Computador com acesso a internet;
 Navegador com versão compatível com tecnologia html5
+
+CT.01 - Acesso às páginas home e nossa história
 
 Procedimentos:
 1. Acessar o site através do link;
@@ -21,10 +21,6 @@ Resultados esperados:
 
 CT.02 - Acesso as informações sobre voluntariado
 
-Pré-condições:
-Computador com acesso a internet;
-Navegador com versão compatível com tecnologia html5
-
 Procedimentos:
 1. Acessar o site através do link;
 2. Clicar na página Voluntariado no menu superior.
@@ -35,10 +31,6 @@ Resultados esperados:
 
 
 CT.03 - Acesso aos dados financeiros de transparência do LARBEM (prestação de contas)
-
-Pré-condições:
-Computador com acesso a internet;
-Navegador com versão compatível com tecnologia html5
 
 Procedimentos:
 1. Acessar o site através do link;
@@ -53,10 +45,6 @@ Resultados esperados:
 
 CT.04 - Acesso a dados bancários para realizar doação 
 
-Pré-condições:
-Computador com acesso a internet;
-Navegador com versão compatível com tecnologia html5
-
 Procedimentos:
 1. Acessar o site através do link;
 2. Clicar na página Doe.
@@ -67,10 +55,6 @@ Resultados esperados:
 
 
 CT.05 - Validar estrutura Mobile-First do site
-
-Pré-condições:
-Computador com acesso a internet;
-Navegador com versão compatível com tecnologia html5
 
 Procedimentos:
 1. Acessar o site através do link utilizando computador;
