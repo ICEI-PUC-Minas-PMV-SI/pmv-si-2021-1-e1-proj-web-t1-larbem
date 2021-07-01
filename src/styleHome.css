@@ -190,6 +190,7 @@ footer p {
     }
     .navigation-bar>.logo {
         display:flex;
+        margin-top: 3vh;
         float: inline-start;
         flex-direction: row;
         vertical-align: top;
