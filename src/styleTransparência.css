@@ -1,3 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 .titulo-principal {
     padding-top: 75px;
     padding-bottom: 75px;
