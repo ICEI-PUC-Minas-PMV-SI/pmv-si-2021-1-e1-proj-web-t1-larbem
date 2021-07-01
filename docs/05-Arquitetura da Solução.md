@@ -4,7 +4,7 @@
 
 A arquitetura da solução proposta para o site do LARBEM conta com o servidor Web Repl.it para atender às requisições do navegador utilizado pelo usuário e apresentar as páginas programadas nas linguaguens HTML5, CCS e JavaScript, além de arquivos de imagens (.jpg). A página contará também com posts incorporados de redes sociais e vídeos incorporados do YouTube e terá como conteúdo informações sobre a instituição e as formas de ajudá-la, além de meios de contato por telefone, endereço, e-mail e redes sociais do LARBEM. 
 
-O usuário acessará a home do LARBEM por meio da URL (*ainda a definir*). Através da página principal, terá acesso a outras cinco páginas apresentadas em um menu superior e em botões distribuídos ao longo da página. Cada uma dessas páginas também poderá ser acessada diretamente informando o caminho após o host na URL. 
+O usuário acessará a home do LARBEM por meio da URL (**https://site-larbem.herokuapp.com/index.html**). Através da página principal, terá acesso a outras cinco páginas apresentadas em um menu superior e em botões distribuídos ao longo da página. Cada uma dessas páginas também poderá ser acessada diretamente informando o caminho após o host na URL. 
 
 **- Home do LARBEM**: apresentará com destaque a missão da instituição, o trabalho realizado, sua equipe e suas redes sociais, além de informações básicas como endereço e contatos no pé da página. Terá links para todas as outras páginas por meio de um menu e botões.
   - **Doe**: Terá as informações de contas bancárias e chave pix do LARBEM, além de materiais que a instituição utiliza de forma recorrente e podem ser doados;
@@ -30,7 +30,7 @@ O site do LARBEM não terá formas de login ou cadastro para os usuários e apre
 ## Tecnologias Utilizadas
 
 
-Na construção do site serão usadas as linguagens html, css e javascript por serem as mais indicadas para construção de sites web. A IDE de desenvolvimento escolhida pela equipe foi o REPLIT por ser gratuito e apresentar ferramentas que facilitam o trabalho colaborativo em equipe e já permitir a criação e hospedagem do site através dele, facilitando o trabalho da equipe que ainda está no início do aprendizado em computação. Será utilizada a biblioteca Jquery para manipular eventos de clicks em botões e criar alteração do layout de forma dinâmica. A equipe também pretende utilizar o framework bootstrap já que o principal requisito não funcional do site é que o mesmo será otimizado para celular (Mobile-First).  
+Na construção do site serão usadas as linguagens html, css e javascript por serem as mais indicadas para construção de sites web. A IDE de desenvolvimento escolhida pela equipe foi o REPLIT(Optou-se pelo Heroku como substituto ao Replit devido a problemas de compatibilidade e desenvolvimento do site) por ser gratuito e apresentar ferramentas que facilitam o trabalho colaborativo em equipe e já permitir a criação e hospedagem do site através dele, facilitando o trabalho da equipe que ainda está no início do aprendizado em computação. Será utilizada a biblioteca Jquery para manipular eventos de clicks em botões e criar alteração do layout de forma dinâmica. A equipe também pretende utilizar o framework bootstrap já que o principal requisito não funcional do site é que o mesmo será otimizado para celular (Mobile-First).  
 
 
 ![Diagrama de Tecnologias](img/tecnologias.png)
@@ -39,6 +39,6 @@ Na construção do site serão usadas as linguagens html, css e javascript por s
 
 ## Hospedagem
 
-Utilizaremos o Replit para hospedagem, já que essa plataforma oferece ferramentas automatizadas para dar deploy no futuro site do LARBEM. 
+Utilizaremos o Replit (Optou-se pelo Heroku como substituto ao Replit devido a problemas de compatibilidade e desenvolvimento do site) para hospedagem, já que essa plataforma oferece ferramentas automatizadas para dar deploy no futuro site do LARBEM. O novo site pode ser acessado pela seguinte URL: **https://site-larbem.herokuapp.com/index.html**.
 
 
