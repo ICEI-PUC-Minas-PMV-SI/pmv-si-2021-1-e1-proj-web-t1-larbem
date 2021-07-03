@@ -1,3 +1,4 @@
+@charset "UTF8";
 *{
     margin: 0;
     padding: 0;
@@ -9,6 +10,9 @@
     background-image: url(imagens/transparencia_header.jpg);
     background-size: cover;
     background-position: center;
+}
+main {
+    background-color: #f5dff4;
 }
 
 body {
@@ -73,9 +77,19 @@ div img {
     margin: opx;
     border-radius: 0px;
     padding: 0px;
-    background-color: white;
+    background-color:#f5dff4;
     text-decoration: none;
     font-family: 'Roboto', sans-serif;
+}
+aside {
+    margin:40px auto;
+    padding: 0px;
+}
+aside h3 {
+    padding-bottom: 10px;
+}
+p.ecles {
+    padding: 0px;
 }
 @media (max-device-width: 600px) {
     .anos {
