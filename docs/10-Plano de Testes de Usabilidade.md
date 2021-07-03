@@ -2,7 +2,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Especificação do Projeto</a></span>, <a href="3-Projeto de Interface.md"> Projeto de Interface</a>
 
-Esse teste será realizado com 3 pessoas de diferentes faixas etárias, em diferentes aparelhos e com diferentes relações com a tecnologia. O teste consiste em colocar o usuário para realizar uma série de tarefas que serão pré-determinadas e serão as mesmas para todos. O objetivo principal é medir o quão fácil ou difícil é o uso do site. 
+Esse teste será realizado com 5 pessoas de diferentes faixas etárias, em diferentes aparelhos e com diferentes relações com a tecnologia. O teste consiste em colocar o usuário para realizar uma série de tarefas que serão pré-determinadas e serão as mesmas para todos. O objetivo principal é medir o quão fácil ou difícil é o uso do site. 
 
 As tarefas em questão são:
 1.	Abrir o site por meio do link que foi enviado para eles;
