@@ -17,7 +17,7 @@ As tarefas em questão são:
 
 Após o usuário realizar todas as tarefas ele classificará a usabilidade do site.
 Os usuários que farão esse teste serão: 
-| Usuário	Proximidade com a internet | tecnologias | Aparelho |
+| Usuário |	Proximidade com a internet/tecnologias | Aparelho |
 |------------------------------------|-------------|----------|
 | Eva (15) | Muita	| Computador |
 | Josiane (44) |	Muita |	Celular |
