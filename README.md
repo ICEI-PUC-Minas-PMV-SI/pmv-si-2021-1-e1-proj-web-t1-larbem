@@ -7,7 +7,9 @@
 
 `1° semestre de 2021`
 
-Criação de um site para o LARBEM que é uma instituição de acolhimento, localizada em Recife-Pe, que atende meninas (crianças e adolescentes) que tenham sofrido algum tipo de violação de direitos.
+Criação de um site para o LARBEM que é uma instituição de acolhimento, localizada em Recife-PE, que atende meninas (crianças e adolescentes) que tenham sofrido algum tipo de violação de direitos.
+
+Acesse: *https://site-larbem.herokuapp.com/*
 
 ## Integrantes
 
